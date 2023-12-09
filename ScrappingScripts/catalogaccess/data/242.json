@@ -1,0 +1,61 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "",
+    "ItemId": "RC-247",
+    "CatalogItemDimension": {
+      "Details": "11.9 X 10.2 X 1.1 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18683,
+          "Title": "Jewelry"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Porcelain"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 23, #23 (Blk/Wht) 3.5X5\"/2-09-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Blue/ Black",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Pectoral Ornament"
+    }
+  },
+  "Title": "RC-247 - Pectoral Ornament",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

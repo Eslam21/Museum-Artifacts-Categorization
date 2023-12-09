@@ -1,0 +1,79 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "525-325 BCE",
+    "ItemId": "RC-2081",
+    "CatalogItemDimension": {
+      "Details": "6.9 X 55.3 X 6 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18695,
+          "Title": "Ritual Objects"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Bronze"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Late Period",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "27 - 31ST",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "\u001b,3",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "This wand was used to offer incense for censing the deity. An incense bead was held in the cartouche-shaped cup before the kneeling king, and a metal cup (now missing) rested on the hand and held charcoal. The offering priest or king picked up the incense with tweezers and dropped it into the burning charcoal, resulting in a puff of smoke.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Incense Burner"
+    }
+  },
+  "Title": "RC-2081 - Incense Burner",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

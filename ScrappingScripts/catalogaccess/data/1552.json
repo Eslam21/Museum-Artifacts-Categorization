@@ -1,0 +1,94 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "378 - 341 BCE",
+    "ItemId": "RC-1804",
+    "CatalogItemDimension": {
+      "Details": "33.3 X 15.4 X49.7 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18697,
+          "Title": "Sculpture"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Bronze"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Wood"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Gold"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Bone ?"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Late Period",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "30TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "SW ID/ 35mm/Page 53, #19A (Blk/Wht) none/3-26-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "H-33.3<br /><br />Text by: David P. Silverman",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Ibis Coffin"
+    }
+  },
+  "Title": "RC-1804 - Ibis Coffin",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

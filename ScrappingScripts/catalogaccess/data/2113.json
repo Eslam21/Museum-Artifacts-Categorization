@@ -1,0 +1,70 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1070-656 BCE",
+    "ItemId": "RC-2561",
+    "CatalogItemDimension": {
+      "Details": "10 X 3.9 X 3.6 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18695,
+          "Title": "Ritual Objects"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Faience"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "3rd Intermediate",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "index^",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Yellow-Greeb/ Black/ Light  Brown",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Shawabti"
+    }
+  },
+  "Title": "RC-2561 - Shawabti",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

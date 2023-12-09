@@ -1,0 +1,95 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "664 - 525 BCE",
+    "ItemId": "RC-96",
+    "CatalogItemDimension": {
+      "Details": "16.9 X 6.5 X 12.5 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18697,
+          "Title": "Sculpture"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "KARNAK"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Wood"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Paint"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Gold"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Saite",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "26TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "\u001b,3",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Brown/ Black/ Yellow",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Cat"
+    }
+  },
+  "Title": "RC-96 - Cat",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,52 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "",
+    "ItemId": "RC-252",
+    "CatalogItemDimension": {
+      "Details": "4.6 X 7.7 X 10.1 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18684,
+          "Title": "Lamps"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Terra Cotta"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Oriental"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Grey/ Black",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Arabic Lamp"
+    }
+  },
+  "Title": "RC-252 - Arabic Lamp",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

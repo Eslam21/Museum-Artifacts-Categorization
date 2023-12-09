@@ -1,0 +1,57 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "",
+    "ItemId": "RC-576",
+    "CatalogItemDimension": {
+      "Details": "30 X 2.8 X 1.7 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18697,
+          "Title": "Sculpture"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Wood"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Paint"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Black/ Brown",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Anubis Tail"
+    }
+  },
+  "Title": "RC-576 - Anubis Tail",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

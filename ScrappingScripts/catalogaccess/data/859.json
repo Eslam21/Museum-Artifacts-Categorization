@@ -1,0 +1,90 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1353 - 1335 BCE",
+    "ItemId": "RC-958",
+    "CatalogItemDimension": {
+      "Details": "12.6 X 10.1 X 3.2 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18678,
+          "Title": "Epigraphy"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "TEL-EL-AMARNA"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Stone"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Plaster"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Amarna",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "18TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "SW ID/ 35mm/Page 42, #33 (Blk/Wht) none/3-9-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Formerly inscribed on a temple wall or tomb wall.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Cartouche Relief Fragment"
+    }
+  },
+  "Title": "RC-958 - Cartouche Relief Fragment",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

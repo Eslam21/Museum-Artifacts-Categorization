@@ -1,0 +1,84 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1570-1293 BCE",
+    "ItemId": "RC-1646",
+    "CatalogItemDimension": {
+      "Details": "13.9 X 16.8 X 6.3 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18679,
+          "Title": "Funerary"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Wood"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Paint"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "New Kingdom",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "18TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "\u001b,3",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "White/ Black/ Red/ Green",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Mummy Box"
+    }
+  },
+  "Title": "RC-1646 - Mummy Box",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

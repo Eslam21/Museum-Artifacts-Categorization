@@ -1,0 +1,85 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "685-525 BCE",
+    "ItemId": "RC-1574",
+    "CatalogItemDimension": {
+      "Details": "11.8 X 4 X 7.4 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18697,
+          "Title": "Sculpture"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "ZAGAZIG, LOWER EGYPT"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Bronze"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Saite Period",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "26TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 18, #9 (Blk/Wht) 3.5X5\"/1-29-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Light Green/ Light Brown<br /><br />Text by: David P. Silverman",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Bast Cat"
+    }
+  },
+  "Title": "RC-1574 - Bast Cat",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

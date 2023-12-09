@@ -1,0 +1,66 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "",
+    "ItemId": "RC-1649",
+    "CatalogItemDimension": {
+      "Details": "49 X 16 X 16.5 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18679,
+          "Title": "Funerary"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Natron"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Linen"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "\u001b,3",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Brown",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Natron in  Infant Mummiform"
+    }
+  },
+  "Title": "RC-1649 - Natron in  Infant Mummiform",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,91 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "664-525 BCE",
+    "ItemId": "RC-1777",
+    "CatalogItemDimension": {
+      "Details": "179.8 X54.7 X54.5 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18679,
+          "Title": "Funerary"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18676,
+          "Title": "Coffin"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "DEL-EL-BAHRI, THEBES"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "wood and paint"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Saite Period",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "26TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "2  8X10\" PRINTS, BLACK & WHITE, IN ARTIFACT FOLDER",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Usermontu, the priest of Montu, Lord of Thebes, was a son of Besenmut and a close relative of Ta'awa-Sherit (RC 2071 - the coffin next to his), possibly a cousin. Coincidentally, these coffins made their way to the Rosicrucian Egyptian Museum, and the family is now at least partially reunited. This family was very powerful during the turmoil of the Saite Period.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Usermontu's Coffin"
+    }
+  },
+  "Title": "RC-1777 - Usermontu's Coffin",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

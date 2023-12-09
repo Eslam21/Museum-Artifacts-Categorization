@@ -1,0 +1,97 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "604-562 BCE",
+    "ItemId": "RC-368",
+    "CatalogItemDimension": {
+      "Details": "13.2 X 4.9 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18671,
+          "Title": "Babylonian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Clay"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Late Babylonian",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Field 3",
+          "Id": 3
+        }
+      },
+      {
+        "StringValue": "JC/ 35mm/Page 68, Row 4, #35A (Blk/Wht)",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "From Mesopotamian Collection: Nebuchadnezzar's proclamation was related to his construction of a new temple. This was one of six such cylinders made, only one other of which has survived.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      },
+      {
+        "StringValue": "<a href=\"https://sketchfab.com/models/c0138b5032d74149a965a0e849b83484\" target=\"_blank\">Click here to view 3D model</a>",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 70,
+          "Name": "3D Model",
+          "Id": 8
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Nebuchadnezzar Cylinder"
+    }
+  },
+  "Title": "RC-368 - Nebuchadnezzar Cylinder",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

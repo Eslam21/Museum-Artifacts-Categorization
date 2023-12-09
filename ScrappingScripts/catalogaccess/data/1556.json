@@ -1,0 +1,79 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1417 - 1379 BCE",
+    "ItemId": "RC-1808",
+    "CatalogItemDimension": {
+      "Details": "12.2 X 2.1 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18701,
+          "Title": "Toiletries"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Faience"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "New Kingdom",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "18TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 14, #35 (Blk/Wht) (7) 3.5 X 5\"/1-30-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Blue/ Light Green/ Light Blue<br /><br />Blue-glazed cylindrical kohl tube inlaid in turquoise paste with a panel of inscription including the cartouche of Amenhotep III.<br /><br />Translation by: DR. SILVERMAN",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Amehotep Iii Kohl Tube"
+    }
+  },
+  "Title": "RC-1808 - Amehotep Iii Kohl Tube",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

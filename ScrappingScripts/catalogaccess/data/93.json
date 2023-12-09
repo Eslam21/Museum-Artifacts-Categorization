@@ -1,0 +1,84 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "525 BCE - 30 BCE",
+    "ItemId": "RC-91",
+    "CatalogItemDimension": {
+      "Details": ""
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18683,
+          "Title": "Jewelry"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Faience"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Linen"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Late Period To Ptole",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "27 - 31ST",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 39, #2 (Blk/Wht) none/3-6-90  (w/RC 2607-10)",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Shreds of Mummy Linen Adhered To Necklace",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Necklace/ Five Strand"
+    }
+  },
+  "Title": "RC-91 - Necklace/ Five Strand",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

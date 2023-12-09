@@ -1,0 +1,45 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "",
+    "ItemId": "RC-847",
+    "CatalogItemDimension": {
+      "Details": "3.5 X 3.6 X 1.5 CM"
+    },
+    "CatalogItemTags": [],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Clay"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "JT ID/ 35mm/Page 282, #2 & 3 (Blk/Wht) 3.5X5\"/10-23-92",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Contract Tablet/ Sealed"
+    }
+  },
+  "Title": "RC-847 - Contract Tablet/ Sealed",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

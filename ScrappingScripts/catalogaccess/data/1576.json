@@ -1,0 +1,85 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "685-525 BCE",
+    "ItemId": "RC-1829",
+    "CatalogItemDimension": {
+      "Details": "25.4 X 7.5 X 9.8 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18697,
+          "Title": "Sculpture"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "ABYDOS"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Basalt"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Late Period",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "26TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "\u001b,3",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Black/ Dk Brown/ Pinkish-White<br /><br />Translation by: EARL L. ERTMAN, UNIVERSITY OF AKRON, 18 FEB 1989",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Priest/Prince"
+    }
+  },
+  "Title": "RC-1829 - Priest/Prince",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

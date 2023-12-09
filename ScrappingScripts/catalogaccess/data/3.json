@@ -1,0 +1,82 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "332-30 BCE",
+    "ItemId": "RC-1",
+    "CatalogItemDimension": {
+      "Details": "13.9 X 2.8 X 2.2 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18697,
+          "Title": "Sculpture"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18696,
+          "Title": "Ritual Objects/ Scul"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "unknown"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Bronze"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Ptolemaic",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 18, #5 (Blk/Wht) 3.5X5\"/1-29-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Sekhmet was the lion-headed goddess of warfare, the hot desert sun, plague, and conversely, healing. In war, Sekhmet was seen as the protector of the king as he drove his chariot into the thick of the battle. RC #1 was the first artifact accessioned for the museum's collection.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Sekhmet Statue"
+    }
+  },
+  "Title": "RC-1 - Sekhmet Statue",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,61 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "",
+    "ItemId": "RC-1225",
+    "CatalogItemDimension": {
+      "Details": "8.0 X 2.9 X 2.0 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18671,
+          "Title": "Babylonian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Clay"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "JT ID/ 35mm/Page 274, #33 (Blk/Wht) 3.5X5\"/9-21-92",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Babylonian Terraphim.  Ishtar,  Clay Fragment",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Terraphim Fragment/ Ishtar"
+    }
+  },
+  "Title": "RC-1225 - Terraphim Fragment/ Ishtar",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

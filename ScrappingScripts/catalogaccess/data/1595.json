@@ -1,0 +1,67 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1000 BCE",
+    "ItemId": "RC-1874",
+    "CatalogItemDimension": {
+      "Details": "26.3 X 22.2 X 6.8 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18692,
+          "Title": "Persian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "Marlik, Iran"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Pottery"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "JT/ 35mm/Page 272, #27A (Blk/Wht) 3.5x3\"/9/14/92",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "H-26.3",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Water Jug"
+    }
+  },
+  "Title": "RC-1874 - Water Jug",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

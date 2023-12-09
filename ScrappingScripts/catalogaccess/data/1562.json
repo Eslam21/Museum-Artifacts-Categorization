@@ -1,0 +1,103 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "2061-1784 BCE",
+    "ItemId": "RC-1814",
+    "CatalogItemDimension": {
+      "Details": "17.9 X 21.4 X 8 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18680,
+          "Title": "Furniture"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "SAKKARA"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Wood"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Middle Kingdom",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Field 3",
+          "Id": 3
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 14, #133(Blk/Wht) none/1-30-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Brown/ Light Brown<br /><br />Headrests were known in Egypt since the Old Kingdom.  They are normally composed of a flat rectangular base, a central shaft, and a curved neck support.  The headrest sometimes contains a spell to preserve and support the head.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      },
+      {
+        "StringValue": "<a href=\"https://skfb/ly/6w9FW/\" target=\"_blank\">Click here to view 3D model</a>",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 70,
+          "Name": "3D Model",
+          "Id": 8
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Headrest"
+    }
+  },
+  "Title": "RC-1814 - Headrest",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

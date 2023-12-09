@@ -1,0 +1,61 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "",
+    "ItemId": "RC-751",
+    "CatalogItemDimension": {
+      "Details": "8.9 X 7.8 X 7.2 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18671,
+          "Title": "Babylonian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Glazed Clay"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "KayCee Photography ID/ 35mm/Page 295, #31 (Blk/Wht)/2-11-93",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Rather than being glazed, this brick was melted at such a high temperature that it vitrified. Probably From a Destruction Layer.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Brick"
+    }
+  },
+  "Title": "RC-751 - Brick",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

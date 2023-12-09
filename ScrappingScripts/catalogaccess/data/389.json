@@ -1,0 +1,107 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "2134-1784 BCE",
+    "ItemId": "RC-422",
+    "CatalogItemDimension": {
+      "Details": "32.7 X 38.8 X 17 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18695,
+          "Title": "Ritual Objects"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Wood"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Bitumen"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Paint"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Middle Kingdom",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Field 3",
+          "Id": 3
+        }
+      },
+      {
+        "StringValue": "\u001b,3",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "The Shemyat, or Chantress, of Amun-Re, Djed-Ma'at-Ius-Ankh, was the owner of this box made for her collection of shabtis, or worker images, in her tomb.<br /><br />Translation by: MOHAMED SALEH, CAIRO MUSEUM",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      },
+      {
+        "StringValue": "<a href=\"https://skfb.ly/6w9Fr\" target=\"_blank\">Click here to view 3D model</a>",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 70,
+          "Name": "3D Model",
+          "Id": 8
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Shawabti Box with Lid"
+    }
+  },
+  "Title": "RC-422 - Shawabti Box with Lid",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,103 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "2195-2066 BCE",
+    "ItemId": "RC-1724",
+    "CatalogItemDimension": {
+      "Details": "21.7 X 19.2 X 2.5 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18678,
+          "Title": "Epigraphy"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "IHNASYA-EL-MEDINA (METRAHINA)"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Limestone"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Old Kingdom",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "5-6th",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Field 3",
+          "Id": 3
+        }
+      },
+      {
+        "StringValue": "\u001b,3",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "This swimming cattle relief dates from the First Intermediate Period and is made of limestone. This peiod was a time of political collapse in Egypt as a result of the low inundation of the Nile caused by a drought in central Africa. In spite of that, this piece is of fine workmanship demonstrating that the tomb owner had access to the finest artists who were still available. ",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      },
+      {
+        "StringValue": "<a href=\"https://skfb.ly/68SYq\" target=\"_blank\">Click here to view 3D model</a>",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 70,
+          "Name": "3D Model",
+          "Id": 8
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Swimming Cattle Relief"
+    }
+  },
+  "Title": "RC-1724 - Swimming Cattle Relief",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

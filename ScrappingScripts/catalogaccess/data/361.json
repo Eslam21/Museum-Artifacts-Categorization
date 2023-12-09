@@ -1,0 +1,70 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "685 BCE - 395 CE",
+    "ItemId": "RC-392",
+    "CatalogItemDimension": {
+      "Details": "17.3 X 6.8 X 3.1 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18701,
+          "Title": "Toiletries"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Glass"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Saite Or Late Roman",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 24, #27 (Blk/Wht) 3.5X5\"/2-14-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Double Balsamarium and Applicator, with basket handle connected To looped trails on the sides.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Double Unguentorium"
+    }
+  },
+  "Title": "RC-392 - Double Unguentorium",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

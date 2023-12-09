@@ -1,0 +1,52 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "3500-3000 BCE",
+    "ItemId": "RC-176",
+    "CatalogItemDimension": {
+      "Details": "29.5 X 11.5 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18706,
+          "Title": "Vessels"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Clay"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 30, #2 (Blk/Wht) none/2-27-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Jar"
+    }
+  },
+  "Title": "RC-176 - Jar",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,54 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1550-1080 BCE",
+    "ItemId": "RC-2995",
+    "CatalogItemDimension": {
+      "Details": "17.8 X 22.9 CM"
+    },
+    "CatalogItemTags": [],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Terracotta"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "New Kingdom",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 28, Row 4, #34 (Blk/Wht) none/2-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Mummy Mask Fragment"
+    }
+  },
+  "Title": "RC-2995 - Mummy Mask Fragment",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

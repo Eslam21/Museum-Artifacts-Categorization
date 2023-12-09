@@ -1,0 +1,67 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "",
+    "ItemId": "RC-688",
+    "CatalogItemDimension": {
+      "Details": "30.0 X 10.2 X 5.6 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18671,
+          "Title": "Babylonian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "SOUTHERN BABYLON"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Faience"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "JT ID/ 35mm/Page 274, #1 (Blk/Wht) 3.5X5\"/9-21-92",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Ejb Note - a Glazed Image of the Goddess Ishtar Cut From a Parthian Coffin.  She Is Supposed To Care For the Soul of the Person Buried Within.  Very Rare and Probably Unique.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Ishtar Coffin Fragment"
+    }
+  },
+  "Title": "RC-688 - Ishtar Coffin Fragment",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,81 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "300-400 CE",
+    "ItemId": "RC-2298",
+    "CatalogItemDimension": {
+      "Details": "11.2 X 10 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18700,
+          "Title": "Textiles"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "AKHMIM, UPPER EGYPT"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Linen"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Wool"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Coptic/Byzantine",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "DJ ID/35mm/Roll 4, #1(color)/3.25X5\"/1986 (photo includes R.C. 2299 & R.C. 2310)",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Beige/ Black/ Red/ Orange",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Panel Fragment"
+    }
+  },
+  "Title": "RC-2298 - Panel Fragment",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

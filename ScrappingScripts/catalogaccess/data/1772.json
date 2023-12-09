@@ -1,0 +1,103 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "2600 BCE",
+    "ItemId": "RC-2084",
+    "CatalogItemDimension": {
+      "Details": ""
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18668,
+          "Title": "Assyrian"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18679,
+          "Title": "Funerary"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Terracotta"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Old Assyrian",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Field 3",
+          "Id": 3
+        }
+      },
+      {
+        "StringValue": "1 8X10\" PRINT, BLACK & WHITE.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "This Babylonian spirit house dates from 2600 BCE and is made of fired ceramic. The people of Babylon believed that the spirits of their ancestors needed a place to return to to be close to their family. These houses were made as those spirit homes. This model was made in Babylon, just outside of the modern city of Bagdad.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      },
+      {
+        "StringValue": "<a href=\"https://sketchfab.com/models/07c31b1d7c194782ba8700f8ddd0ed1a\" target=\"_blank\">Click here to view 3D model</a>",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 70,
+          "Name": "3D Model",
+          "Id": 8
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Babylonian Spirit House"
+    }
+  },
+  "Title": "RC-2084 - Babylonian Spirit House",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

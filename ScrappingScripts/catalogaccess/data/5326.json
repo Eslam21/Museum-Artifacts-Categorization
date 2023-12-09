@@ -1,0 +1,81 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "300-400 CE",
+    "ItemId": "RC-2306",
+    "CatalogItemDimension": {
+      "Details": "9 X 8 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18700,
+          "Title": "Textiles"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "AKHMIM, UPPER EGYPT"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Linen"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Wool"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Coptic/Byzantine",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "DJ ID/35mm/Roll 4, #13(color)/3.25X5\"/1986 (photo includes R.C. 2304, R.C. 2340, & R.C. 2305)",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Green/ Orange/ Beige",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Orbiculus"
+    }
+  },
+  "Title": "RC-2306 - Orbiculus",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,86 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "332-31 BCE",
+    "ItemId": "RC-3145",
+    "CatalogItemDimension": {
+      "Details": ""
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18677,
+          "Title": "Coins"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "Alexandria Mint"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Copper"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Bronze"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Or Orichalcum"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Ptolemaic",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "PTOLEMY II",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "Zeus/Eagle, Wings Folded",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Coin"
+    }
+  },
+  "Title": "RC-3145 - Coin",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

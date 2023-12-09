@@ -1,0 +1,76 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "883 - 859 BCE",
+    "ItemId": "RC-1801",
+    "CatalogItemDimension": {
+      "Details": "53.0 X 39.5 X 3.9 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18668,
+          "Title": "Assyrian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "PALACE OF ASSURNASIRPAL"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Limestone"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Neo Assyrian",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "JC Treasures photo/ 120/Page 155, Row 1, #1, 2 (Blk/Wht)",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "23 Columns of Inscription<br /><br />Translation by: JOHN W. SNYDER, UC SANTA BARBARA, 14 DECEMBER 1972",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Assurnasirpal Ii Tablet"
+    }
+  },
+  "Title": "RC-1801 - Assurnasirpal Ii Tablet",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

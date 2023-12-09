@@ -1,0 +1,72 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1994-1781 BCE",
+    "ItemId": "RC-2990",
+    "CatalogItemDimension": {
+      "Details": "33  X 39.7 X 4.5 CM"
+    },
+    "CatalogItemTags": [],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Limestone"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Middle Kingdom",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "12TH DYNASTY",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 28, Row 6, #35 (Blk/Wht) none/2-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Brown/ Beige.  Top Center Square Carved in Shallow Relief.  Contains a Bell-Shaped Figure Above and a Leg of Beef Below, Flanked By Loaves of Bread and Libation Vases.  Bands of Glyphs in Sunk Relief Run Around Border.  Four Distinct Bands",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Offering Table"
+    }
+  },
+  "Title": "RC-2990 - Offering Table",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,46 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1000 BCE",
+    "ItemId": "RC-1818",
+    "CatalogItemDimension": {
+      "Details": "8.0 X 6.0 X 4.3 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18671,
+          "Title": "Babylonian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": []
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "KayCee Photography ID/ 35mm/Page 294, #19 (Blk/Wht)/2-11-93",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Cosmetic Container"
+    }
+  },
+  "Title": "RC-1818 - Cosmetic Container",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

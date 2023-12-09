@@ -1,0 +1,67 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "2350 BCE",
+    "ItemId": "RC-2727",
+    "CatalogItemDimension": {
+      "Details": "3.9 X 3.7 X 1.9 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18699,
+          "Title": "Sumerian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "DREHEM OR JOKHA"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Clay"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Early Dynastic",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "JT ID/ 35mm/Page 287, 19A-20A (Blk/Wht) 3.5X5\"/10-23-92",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Contract Tablet Fragment"
+    }
+  },
+  "Title": "RC-2727 - Contract Tablet Fragment",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

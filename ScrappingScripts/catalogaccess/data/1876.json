@@ -1,0 +1,126 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "Uncertain",
+    "ItemId": "RC-2213",
+    "CatalogItemDimension": {
+      "Details": "52 X 25 X 27 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18679,
+          "Title": "Funerary"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18687,
+          "Title": "Mummy"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18695,
+          "Title": "Ritual Objects"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18700,
+          "Title": "Textiles"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "SAQQARAH NEAR TEMPLE OF THOTH"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Animal Remains"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Linen"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Late Per - Ptolemaic",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "26TH - PTOLEMAIC",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "Video: <a href= \"T:\\SHARE\\Museum Share\\tour\\flash\\03baboon.html\">Click Here",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Field 3",
+          "Id": 3
+        }
+      },
+      {
+        "StringValue": "SW ID/ 35mm/Page 58, #35A (Blk/Wht) none/3-26-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Images and mummies of Djehuti (Thoth) were donated to the temples to honor the animal representing the god. This figure is an anomaly; there is no baboon in this mummy. An x-ray has revealed that this image is formed around an ancient ceramic jar.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      },
+      {
+        "StringValue": "<a href=\"https://skfb.ly/68N9U\" target=\"_blank\">Click here to view 3D model</a>",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 70,
+          "Name": "3D Model",
+          "Id": 8
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Baboon Mummy"
+    }
+  },
+  "Title": "RC-2213 - Baboon Mummy",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

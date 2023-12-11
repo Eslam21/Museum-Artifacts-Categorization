@@ -1,0 +1,50 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1400 - 1599 CE",
+    "ItemId": "RC-1396",
+    "CatalogItemDimension": {
+      "Details": "40.2 X 13.3 X13.5 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18684,
+          "Title": "Lamps"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Brass"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": null
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Modern",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Moorish Oriental Lamp"
+    }
+  },
+  "Title": "RC-1396 - Moorish Oriental Lamp",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

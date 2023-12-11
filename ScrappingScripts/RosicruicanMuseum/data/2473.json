@@ -1,0 +1,63 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1080-746 BCE",
+    "ItemId": "RC-2992",
+    "CatalogItemDimension": {
+      "Details": "4.1 X 3.6 CM"
+    },
+    "CatalogItemTags": [],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Faience Egyptian Blue"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "3rd Intermediate",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "DJ/SW ID/ 35mm/Page 18, #28 (Blk/Wht) 3.5X5\"/1-29-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Steel Blue, Tan Brown, Black.  Molded in sunk relief with a rrieze of seated deities, including a falcon headed divinity, Hapy, and Ptah, the two fragmentary lines of inscription containing an invocation offering.<br /><br />Translation by: SOTHEBY'S",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Cylinder"
+    }
+  },
+  "Title": "RC-2992 - Cylinder",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

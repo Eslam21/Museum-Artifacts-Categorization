@@ -1,0 +1,81 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "642 CE - ?",
+    "ItemId": "RC-2647",
+    "CatalogItemDimension": {
+      "Details": "7.3 X 7.1 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18678,
+          "Title": "Epigraphy"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "FAYUMIC"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Paper"
+          }
+        },
+        {
+          "DictionaryItem": {
+            "Title": "Ink"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Arab Conquest",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "SW ID/ 35mm/Page 58, #36 (Blk/Wht) none/3-26-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Cream/ Tan<br /><br />Coptic text that appears to be a letter mentioning grain.  Despite its small size, the text can be read clearly without interruption. [last word a guess - hard to read]<br /><br />Text by: David P. Silverman",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Paper Fragment"
+    }
+  },
+  "Title": "RC-2647 - Paper Fragment",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

@@ -1,0 +1,58 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1000 BCE",
+    "ItemId": "RC-2928",
+    "CatalogItemDimension": {
+      "Details": "8.0 X 17.4 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18692,
+          "Title": "Persian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "Marlik, Iran"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Clay"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "JT/ 35mm/Page 272, #13A (Blk/Wht) 3.5x3\"/9/14/92",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Bowl"
+    }
+  },
+  "Title": "RC-2928 - Bowl",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

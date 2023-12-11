@@ -1,0 +1,64 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "51 - 30 BCE",
+    "ItemId": "RC-2986",
+    "CatalogItemDimension": {
+      "Details": ""
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18677,
+          "Title": "Coins"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [],
+      "CatalogItemHistoryMaterials": []
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Ptolemaic",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "SW ID/ 35mm/Page 246, #22A (Blk/Wht) none/8-20-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Gray/ Silver",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Cleopatra Vii Coin"
+    }
+  },
+  "Title": "RC-2986 - Cleopatra Vii Coin",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

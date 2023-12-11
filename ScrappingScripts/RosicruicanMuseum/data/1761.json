@@ -1,0 +1,115 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1350-1341 BCE",
+    "ItemId": "RC-2070",
+    "CatalogItemDimension": {
+      "Details": "23.2 X 34.3 X 5 CMS"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18678,
+          "Title": "Epigraphy"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18667,
+          "Title": "Architecture"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18689,
+          "Title": "New Kingdom"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "TEL-EL-AMARNA"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Limestone"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Amarna",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "18TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Field 3",
+          "Id": 3
+        }
+      },
+      {
+        "StringValue": "SW ID/ 35mm/Page 48, #1OA (Blk/Wht) none/3-12-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "This polychrome fragment of a column depicts Akhnaton offering incense to his sole god, the Aton, and being blessed by the hieroglyph for “life” in return. The cartouches indicate that this column dates to early in Akhnaton's reign, no later than year nine.",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      },
+      {
+        "StringValue": "<a href=\"https://sketchfab.com/models/f2b4b4155b2243b580264a34b80b1537\" target=\"_blank\">Click here to view 3D model</a>",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 70,
+          "Name": "3D Model",
+          "Id": 8
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Akhnaton Prayer Relief Fragment"
+    }
+  },
+  "Title": "RC-2070 - Akhnaton Prayer Relief Fragment",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

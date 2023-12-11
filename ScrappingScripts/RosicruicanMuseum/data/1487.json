@@ -1,0 +1,109 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "Dynasty 5",
+    "ItemId": "RC-1735",
+    "CatalogItemDimension": {
+      "Details": "77.5 X 43 X 16 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18679,
+          "Title": "Funerary"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18667,
+          "Title": "Architecture"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18696,
+          "Title": "Ritual Objects/ Scul"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18697,
+          "Title": "Sculpture"
+        }
+      },
+      {
+        "DictionaryItem": {
+          "Id": 18690,
+          "Title": "Old Kingdom"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "TOMB OF HENUT [A FEMALE]"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Limestone"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Egyptian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "Old Kingdom",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Period",
+          "Id": 1
+        }
+      },
+      {
+        "StringValue": "6TH",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 60,
+          "Name": "Dynasty",
+          "Id": 2
+        }
+      },
+      {
+        "StringValue": "SW ID/ 35mm/Page 56, #3 (Blk/Wht) none/3-27-90",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      },
+      {
+        "StringValue": "Offering doors were the altars of the tombs, a place for the family to deliver funerary offerings to the deceased.  This door is dedicated to the Lady Henuti, whose titles are not listed.  The image of the lady appears to have been changed in antiquity,",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Online Description",
+          "Id": 5
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Offering Door of Henuti"
+    }
+  },
+  "Title": "RC-1735 - Offering Door of Henuti",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

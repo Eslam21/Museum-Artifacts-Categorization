@@ -1,0 +1,58 @@
+{
+  "Item": {
+    "Title": "",
+    "CreationDate": "1000 BCE",
+    "ItemId": "RC-1898",
+    "CatalogItemDimension": {
+      "Details": "36.5 X 4.4 CM"
+    },
+    "CatalogItemTags": [
+      {
+        "DictionaryItem": {
+          "Id": 18692,
+          "Title": "Persian"
+        }
+      }
+    ],
+    "CatalogItemHistory": {
+      "CatalogItemHistoryOrigins": [
+        {
+          "DictionaryItem": {
+            "Title": "Marlik, Iran"
+          }
+        }
+      ],
+      "CatalogItemHistoryMaterials": [
+        {
+          "DictionaryItem": {
+            "Title": "Bronze"
+          }
+        }
+      ]
+    },
+    "CatalogItemArt": {
+      "Culture": {
+        "Title": "Mesopotamian"
+      }
+    },
+    "CustomFields": [
+      {
+        "StringValue": "JT/ 35mm/Page 273, #30A (Blk/Wht) 3.5x3\"/9/14/92",
+        "Metadata": {
+          "ObjectType": 101,
+          "FieldType": 10,
+          "Name": "Photograph",
+          "Id": 4
+        }
+      }
+    ],
+    "ItemName": {
+      "ObjectName": "Dagger"
+    }
+  },
+  "Title": "RC-1898 - Dagger",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": []
+}

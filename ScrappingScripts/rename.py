@@ -1,13 +1,12 @@
 import os
 import threading
-museums = ["BritishMuseum", "GlobalEgyptianMuseum",
-           "MetMuseum", "RosicruicanMuseum"]
+museums = ["britishMuseum", "globalEgyptianMuseum",
+           "metMuseum", "rosicruicanMuseum"]
 threads = []
 
 
 def rename(museum):
     museum_dir = f"./{museum}/photo"
-
     for photo in os.listdir(museum_dir):
         if photo[:3] != museum[:3]:
             temp = f"{museum[:3]}_{photo}"
@@ -21,3 +20,4 @@ for museum in museums:
 
 for thread in threads:
     thread.join()
+

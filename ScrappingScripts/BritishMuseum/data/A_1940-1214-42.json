@@ -1,1 +1,52 @@
-{"artifact_name": "bottle; snuff-bottle", "Object Type": [" bottle ", " snuff-bottle "], "Museum number": ["1901,0608.176"], "Description": [" Bottle (medicine). Flowers and bats. Made of turquoise enamelled ceramic, porcelain. "], "Cultures/periods": ["Qing dynasty"], "Production date": ["1800-1870"], "Production place": [" Made in: China ", " Made in: Jingdezhen (?) "], "Findspot": [" Found/Acquired: China ", " Found/Acquired: Egypt (?) "], "Materials": ["porcelain"], "Technique": [" glazed ", " painted "], "Location": ["Not on display"], "Subjects": ["animal"], "Acquisition date": ["1901"], "Department": ["Asia"], "Registration number": ["1901,0608.176"], "Additional IDs": [" Miscellaneous number: 35443 "]}
+{
+	"artifact_name": "bottle; snuff-bottle",
+	"Object Type": [
+		" bottle ",
+		" snuff-bottle "
+	],
+	"Museum number": [
+		"1901,0608.176"
+	],
+	"Description": [
+		" Bottle (medicine). Flowers and bats. Made of turquoise enamelled ceramic, porcelain. "
+	],
+	"Cultures/periods": [
+		"Qing dynasty"
+	],
+	"Production date": [
+		"1800-1870"
+	],
+	"Production place": [
+		" Made in: China ",
+		" Made in: Jingdezhen (?) "
+	],
+	"Findspot": [
+		" Found/Acquired: China ",
+		" Found/Acquired: Egypt (?) "
+	],
+	"Materials": [
+		"porcelain"
+	],
+	"Technique": [
+		" glazed ",
+		" painted "
+	],
+	"Location": [
+		"Not on display"
+	],
+	"Subjects": [
+		"animal"
+	],
+	"Acquisition date": [
+		"1901"
+	],
+	"Department": [
+		"Asia"
+	],
+	"Registration number": [
+		"1901,0608.176"
+	],
+	"Additional IDs": [
+		" Miscellaneous number: 35443 "
+	]
+}

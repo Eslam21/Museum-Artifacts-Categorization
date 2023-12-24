@@ -1,1 +1,48 @@
-{"artifact_name": "bead", "Object Type": ["bead"], "Museum number": ["1938,0524.751"], "Description": [" Bead. Made of brown, white glass. "], "Cultures/periods": ["Eastern Zhou dynasty"], "Production date": ["600BC-200BC"], "Findspot": [" Found/Acquired: China "], "Materials": ["glass"], "Dimensions": [" Diameter: 2.71 centimetres "], "Curator's comments": ["Rawson 1992: Beads decorated with layers of coloured glasses, making what are called 'eyes', are known from many parts of the world, including Egypt, Mesopotamia and Europe. The form of this bead was probably copied from such foreign examples. The chemical composition (traces of barium), however, indicates that the beads were made in China. Cobalt, needed for the blue colour came from Afghanistan. Both the use of this foreign material and the form in which it was made indicate that the Chinese were in contact not merely with their neighbours in Central Asia, but through them with the lands of the Middle East. Glass beads are found, for example, in the fifth-century BC tombs as that of the Marquis Yi of Zeng. See also BM 1940.1214.5, 27, 34, 35, 42, 43, 44, 46, 55, 75 and 78; BM 1938.0524.632 and 753; or BM 1945.1017.165."], "Bibliographic references": ["Rawson 1992 / The British Museum Book of Chinese Art (figure 190)"], "Location": ["Not on display"], "Acquisition name": ["Purchased from: George Eumorfopoulos"], "Acquisition date": ["1938"], "Department": ["Asia"], "Registration number": ["1938,0524.751"]}
+{
+	"artifact_name": "bead",
+	"Object Type": [
+		"bead"
+	],
+	"Museum number": [
+		"1938,0524.751"
+	],
+	"Description": [
+		" Bead. Made of brown, white glass. "
+	],
+	"Cultures/periods": [
+		"Eastern Zhou dynasty"
+	],
+	"Production date": [
+		"600BC-200BC"
+	],
+	"Findspot": [
+		" Found/Acquired: China "
+	],
+	"Materials": [
+		"glass"
+	],
+	"Dimensions": [
+		" Diameter: 2.71 centimetres "
+	],
+	"Curator's comments": [
+		"Rawson 1992: Beads decorated with layers of coloured glasses, making what are called 'eyes', are known from many parts of the world, including Egypt, Mesopotamia and Europe. The form of this bead was probably copied from such foreign examples. The chemical composition (traces of barium), however, indicates that the beads were made in China. Cobalt, needed for the blue colour came from Afghanistan. Both the use of this foreign material and the form in which it was made indicate that the Chinese were in contact not merely with their neighbours in Central Asia, but through them with the lands of the Middle East. Glass beads are found, for example, in the fifth-century BC tombs as that of the Marquis Yi of Zeng. See also BM 1940.1214.5, 27, 34, 35, 42, 43, 44, 46, 55, 75 and 78; BM 1938.0524.632 and 753; or BM 1945.1017.165."
+	],
+	"Bibliographic references": [
+		"Rawson 1992 / The British Museum Book of Chinese Art (figure 190)"
+	],
+	"Location": [
+		"Not on display"
+	],
+	"Acquisition name": [
+		"Purchased from: George Eumorfopoulos"
+	],
+	"Acquisition date": [
+		"1938"
+	],
+	"Department": [
+		"Asia"
+	],
+	"Registration number": [
+		"1938,0524.751"
+	]
+}

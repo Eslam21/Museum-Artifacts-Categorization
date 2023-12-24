@@ -1,1 +1,55 @@
-{"artifact_name": "brush", "Object Type": ["brush"], "Museum number": ["EA96078"], "Description": [" Stump of a light brown, palm strip brush; constructed by tying narrow, palm strips into a bundle then turning whole over itself; bound at the end where the strips are reversed by 2 ply S plam fibre cord (dia. 4mm); cord is wrapped 4 times and knotted, it is broken at one end "], "Cultures/periods": ["Ottoman dynasty (?)"], "Findspot": [" Excavated/Findspot: Qasr Ibrim (Nubia), B38, room 74, wall fill B-138-H "], "Materials": ["palm fibre"], "Technique": ["handmade"], "Dimensions": [" Diameter: 25 millimetres ", " Length: 150 millimetres ", " Width: 40 millimetres "], "Location": ["Not on display"], "Condition": ["Good"], "Acquisition name": ["Donated by: Egypt Exploration Society"], "Acquisition date": ["2008"], "Department": ["Egypt and Sudan"], "BM/Big number": ["EA96078"], "Registration number": ["2008,1008.5435"], "Additional IDs": [" Excavation/small finds number: 80.1.31/13 ", " Miscellaneous number: 80/721 (Reg no.) ", " Miscellaneous number: 80f121/7 top (Photo no.) "]}
+{
+	"artifact_name": "brush",
+	"Object Type": [
+		"brush"
+	],
+	"Museum number": [
+		"EA96078"
+	],
+	"Description": [
+		" Stump of a light brown, palm strip brush; constructed by tying narrow, palm strips into a bundle then turning whole over itself; bound at the end where the strips are reversed by 2 ply S plam fibre cord (dia. 4mm); cord is wrapped 4 times and knotted, it is broken at one end "
+	],
+	"Cultures/periods": [
+		"Ottoman dynasty (?)"
+	],
+	"Findspot": [
+		" Excavated/Findspot: Qasr Ibrim (Nubia), B38, room 74, wall fill B-138-H "
+	],
+	"Materials": [
+		"palm fibre"
+	],
+	"Technique": [
+		"handmade"
+	],
+	"Dimensions": [
+		" Diameter: 25 millimetres ",
+		" Length: 150 millimetres ",
+		" Width: 40 millimetres "
+	],
+	"Location": [
+		"Not on display"
+	],
+	"Condition": [
+		"Good"
+	],
+	"Acquisition name": [
+		"Donated by: Egypt Exploration Society"
+	],
+	"Acquisition date": [
+		"2008"
+	],
+	"Department": [
+		"Egypt and Sudan"
+	],
+	"BM/Big number": [
+		"EA96078"
+	],
+	"Registration number": [
+		"2008,1008.5435"
+	],
+	"Additional IDs": [
+		" Excavation/small finds number: 80.1.31/13 ",
+		" Miscellaneous number: 80/721 (Reg no.) ",
+		" Miscellaneous number: 80f121/7 top (Photo no.) "
+	]
+}

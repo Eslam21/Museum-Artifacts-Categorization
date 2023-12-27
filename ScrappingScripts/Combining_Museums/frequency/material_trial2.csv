@@ -1,0 +1,798 @@
+material,count
+pottery,21999
+limestone,6110
+copper alloy,4887
+faience,4726
+glazed composition,3896
+wood,3783
+clay,3003
+bronze,2901
+papyrus,2822
+terracotta,2512
+paper,2500
+steatite,2146
+glass,1844
+linen,1567
+alloy,1567
+silver,1427
+wool,1369
+gold,1225
+calcite,1055
+flint,756
+basalt,705
+earthenware,659
+mud,617
+sandstone,551
+ivory,495
+granite,487
+fired clay,467
+plaster,449
+bone,401
+iron,331
+stone,300
+rock,285
+travertine,277
+marble,272
+sycomore fig wood,257
+carnelian,232
+tempera on paper,222
+indurated limestone,216
+cupreous metal,216
+shell,212
+brass,209
+glazed steatite,189
+copper,189
+leather,186
+lapis lazuli,185
+stonepaste,183
+unknown,172
+flax,170
+jasper,169
+enamel,165
+bronze or copper alloy,149
+diorite,145
+cornelian,142
+quartzite,136
+reed,132
+lead,129
+egyptian blue,123
+cotton,120
+slate,117
+serpentine,113
+serpentinite,110
+greywacke,105
+schist,103
+blue faience,101
+silk,93
+organic,91
+granodiorite,91
+red quartzite,89
+arsenical copper,86
+green glazed steatite,85
+unspecified rock,83
+mudstone,83
+hematite,76
+amethyst,75
+linen and silk,69
+quartz,68
+cedar wood,61
+ebony,58
+alabaster,56
+acacia wood,54
+palm leaf,53
+breccia,52
+anhydrite,51
+obsidian,50
+porphyry,47
+hippopotamus ivory,44
+siltstone,41
+blue glazed steatite,39
+agate,39
+human tissue,39
+metal,37
+rock crystal,36
+pine,35
+gypsum,34
+feldspar,34
+chalcedony,33
+tamarisk wood,32
+red granite,31
+sycamore,31
+fibre,31
+porcelain,30
+fiber,29
+gold sheet,28
+sidder wood,27
+aluminium,27
+electrum,27
+gesso,25
+ceramic,25
+rush,25
+wax,24
+cartonnage,24
+mammal bone,24
+palm fibre,23
+ostrich eggshell,23
+tamarisk,23
+cedar,22
+haematite,22
+ink on paper,22
+cupronickel,21
+beryl,21
+leaded bronze,21
+bright blue glazed steatite,20
+green faience,20
+plastic,19
+willow,19
+beeswax,19
+bronze or cupreous alloy,19
+sycomore wood,19
+mosaic glass,19
+lime wood,19
+grass,19
+bread,18
+human hair,18
+nile mud,18
+gabbro,18
+banded calcite,18
+tridacna shell,18
+cowrie shell,17
+chert,17
+gneiss,17
+red jasper,17
+elephant ivory,16
+mother of pearl,16
+mineral,16
+ink on papyrus,16
+pottery and ink,16
+garnet,15
+human remains,15
+aragonite,15
+green feldspar,15
+selenite,14
+stucco,14
+turquoise,14
+horn,14
+hair,13
+straw,13
+mother-of-pearl,13
+acacia,13
+parchment,13
+tin,12
+tortoise-shell,12
+teak,12
+rayon,12
+terra cotta,12
+low-fired whitish clay,12
+man made material,12
+cat tissue,12
+animal remains,11
+pewter,11
+goat hair,11
+boxwood,10
+copper ore,10
+human bone,10
+halfa grass,10
+juniper wood,10
+polychrome faience,9
+fir wood,9
+sard,9
+polyester,9
+mud plaster,9
+frit,9
+date-palm fiber,9
+sardonyx,9
+cupreous alloy,9
+gritstone,9
+non organic,9
+textile,8
+gun-metal,8
+steel,8
+bamboo,8
+resin,8
+coral,8
+straw and palm leaf,8
+glazed clay,8
+antler,7
+green jasper,7
+steatite or serpentinite,7
+cotton and silk,7
+yellow quartzite,7
+black,7
+papyrus fiber,7
+spruce,7
+rhyolite,7
+tooth,7
+amber,7
+white metal,7
+sheep bone,7
+blue paste,7
+corn,7
+mica schist,7
+felspar,7
+sycomore,6
+skin,6
+bright blue faience,6
+dom palm fruit,6
+unspecified,6
+flower,6
+persea wood,6
+wool and linen,6
+painted limestone,6
+brigth blue glazed steatite,6
+ox tooth,6
+cerithium shell,6
+ink and opaque watercolor on paper,6
+unspecified fiber,6
+unspecified wood,6
+green stone,6
+coniferous wood,6
+olive wood,5
+black steatite,5
+greenstone,5
+sun-dried mud,5
+plastered and painted wood,5
+painted wood,5
+cane,5
+dark green stone,5
+yellow glass,5
+meta-greywacke,5
+glassy faience,5
+oak,5
+soapstone,5
+cardboard,5
+plant product,5
+hippopotamus skin,5
+sheet gold,5
+amazonite,5
+reed rope,5
+mica,5
+hard wood,5
+gilt glass,5
+dolomite,5
+reddish earthenware,5
+linen and wool,4
+stoneware,4
+azure,4
+encaustic on limewood,4
+dyed and undyed linen,4
+polychrome glass,4
+opaque watercolor on paper,4
+anorthosite,4
+mold-pressed glass,4
+unspecified man made material,4
+gourd,4
+carnelian or red jasper,4
+bright green glazed steatite,4
+light and dark green,4
+syenite,4
+charcoal,4
+galena,4
+porphyritic diorite,4
+chlorite schist,4
+oyster shell,4
+blue and black faience,4
+unbaked clay,4
+nickel,4
+magnesite,4
+dog tissue,4
+gum,4
+lapis-lazuli,4
+linen covered with stucco,4
+malachite,4
+glazed faience,4
+light blue faience,4
+conglomerate,4
+dolerite,4
+light green faience,4
+pale blue faience,4
+blue glass,4
+onyx,4
+black stone,4
+green glazed faience,3
+basanite,3
+maize,3
+white faience,3
+black glass,3
+emerald,3
+blue and yellow faience,3
+gold leaf,3
+marl,3
+green paste,3
+gessoed and painted wood,3
+red ochre,3
+blue steatite,3
+dark blue faience,3
+pale green faience,3
+tortoise shell,3
+dark stone,3
+natron,3
+gypsum plaster,3
+blue marble,3
+ink,3
+chlorite,3
+natural compound,3
+translucent green glass,3
+spatha shell,3
+goethite,3
+pine wood,3
+glazed limestone,3
+dark green glazed steatite,3
+metasediment,3
+basketry,3
+snake tissue,3
+volcanic ash,3
+vellum,3
+pumice,3
+crocodile tissue,3
+ibis tissue,3
+olivine,3
+lapis,3
+nerita shell,3
+ancillaria shell,3
+glaze slag,3
+red pottery,3
+wood and paint,3
+cypress,3
+glaze,3
+carob wood,3
+lead ore,3
+ox bone,3
+yellow limestone,2
+gilded silver,2
+clay or mud,2
+cow horn,2
+petrified wood,2
+beech wood,2
+coconut,2
+conifer,2
+unalloyed copper,2
+brown glazed steatite,2
+bronze or possibly copper alloy,2
+unfired clay,2
+date palm fibre,2
+graywacke,2
+unbaked earth,2
+amphibolite,2
+falcon tissue,2
+crystalline and banded travertine,2
+pale carnelian,2
+gilded wax on a reconstructed body of ancient linen,2
+green steatite,2
+shells,2
+indurated  limestone,2
+leaf,2
+prunus wood,2
+crocodile skin,2
+gray limestone,2
+hippopotamus tusk,2
+human mummy,2
+canvas,2
+meta-siltstone,2
+baked clay,2
+bird bone,2
+red faience,2
+cedarwood,2
+maerua wood,2
+raffia palm leaf,2
+coiled basketry,2
+plant fiber,2
+steatie,2
+paste,2
+linen cord,2
+dark blue glazed faience,2
+cypress wood,2
+electrum over plaster,2
+myrtle wood,2
+fruit,2
+cat bone,2
+baboon tissue,2
+pomegranate,2
+unspecified mineral,2
+unspecified plant product,2
+painted and plastered wood,2
+white stone,2
+wool and cotton,2
+faded blue faience,2
+silver over wood core,2
+greywacke or diorite,2
+bone or ivory,2
+lemon,2
+wood marquetry,2
+rope,2
+goat horn,2
+fused glass,2
+black bronze,2
+pottery: gulleh ware,2
+zinc,2
+eartheware,2
+nephrite,2
+red glass,2
+palm fiber,2
+ivory or bone,2
+yellow faience,2
+hippopotomus ivory,2
+limonite,2
+pink quartzite,2
+blue,2
+box,2
+yellow,2
+slate or stone,2
+gold foil,2
+ox horn,2
+encaustic on limewood with gold leaf,2
+red,2
+mortar,2
+bull tissue,2
+tusk,2
+fine light red pottery,2
+silvered glass,2
+hawk tissue,2
+bloodstone,2
+yellow brown glazed earthenware,2
+nicolo,2
+coffin: wood,2
+vitrified clay,1
+dark brown stone,1
+clear glass,1
+red carnelian,1
+mottled glass,1
+dioritic stone,1
+white mica schist,1
+painted gessoed wood,1
+gold with filigree ornament,1
+violet and white faience,1
+diorite or granodiorite,1
+white talc,1
+dark violet and white faience,1
+blue-green faience,1
+eroded and light limestone,1
+blue stone,1
+hard limestone,1
+brown jasper,1
+gilded glass,1
+palm wood,1
+brown pottery,1
+porphyritic rock,1
+possibly boxwood,1
+pale blue glass,1
+pearls,1
+gray,1
+dyed linen,1
+copper or bronze,1
+dyed and unyed linen,1
+statue: marble,1
+organic material,1
+grey faience,1
+tempera on sycomore wood,1
+glazed steatite in gold funda,1
+palm,1
+granite or granodiorite,1
+diorite or gabbro,1
+linen fiber,1
+gray paste,1
+blue black glass,1
+partially baked  mud,1
+"blue and green faience
+light blue faience",1
+reddish green glass,1
+free faience,1
+green serpentinite,1
+grayware,1
+egg shell,1
+brown and white glass,1
+water color on paper,1
+glazed travertine,1
+leaded tin,1
+fish remains,1
+cake of dates,1
+egyptian blue faience,1
+cuperous metal,1
+faience egyptian blue,1
+transparent green glass,1
+opaque blue glass,1
+opaque and translucent blue glass,1
+opaque dark blue glass,1
+translucent dark blue glass,1
+translucent dark blue striated glass,1
+reptile remains,1
+translucent blue glass,1
+grit stone,1
+onyx or hematite,1
+green jasper plaque on silver ring,1
+09.184.214: papyrus,1
+burned clay,1
+papyrus stalks,1
+hemp,1
+split papyrus stalks,1
+cordage,1
+tortoise shell-like substance,1
+aswan granite,1
+gazelle mummy,1
+basalt porphyry,1
+limestone or plaster,1
+gabbro porphyry,1
+black granite,1
+glazed terracotta,1
+amethystine glass,1
+mixed metal,1
+steatite stone,1
+spun glass,1
+varigated marble,1
+tinned copper,1
+ink and white pigment on paper,1
+carnelian and linen thread,1
+halfa grass and linen cord,1
+whitewashed wood,1
+green glass and stone,1
+opaque green glass,1
+glass slag,1
+hematite basalt,1
+bright blue stone,1
+green jasper or serpentinite,1
+unglazed faience,1
+blue-green glazed steatite,1
+grey stone,1
+blackened ivory,1
+blue and violet faience,1
+"obsidian
+obsidian",1
+granitodiorite,1
+green leather,1
+grasses,1
+brown steatite,1
+white glazed steatite,1
+wood covered with stucco,1
+goose,1
+woven papyrus,1
+stone or porphyry,1
+red glass decayed to green,1
+string,1
+blackened limestone,1
+light red ware,1
+green quartzite,1
+persea leaves,1
+greyish-brown stone,1
+green composition,1
+blue composition,1
+cowrie shells,1
+crystalline stone,1
+slate or volcanic ash,1
+black baked clay,1
+flax fiber,1
+rock salt,1
+mottled green stone,1
+green porphyry,1
+brigth green faience,1
+bright green faience,1
+palm fiber rope,1
+gray stone,1
+blue glazed faience,1
+zizyphus wood,1
+black faience,1
+green glass,1
+grey glazed steatite,1
+light blue glass,1
+carrara marble,1
+painted cartonnage,1
+painted sycomore and ziziphus wood,1
+"facsimile by charles k. wilkinson
+tempera on paper",1
+green feldspar and beryl,1
+granodriorite,1
+yellow jasper or opal,1
+gray faience,1
+tapestry weave in polychrome and undyed wool on plain-weave ground of undyed wool,1
+tapestry weave in purple wool  and undyed linen on plain-weave ground of undyed linen,1
+plain weave in red wool,1
+tapestry weave in polychrome wool and undyed linen on plain-weave ground of undyed linen,1
+possibly ivory,1
+steatite or schist,1
+basalt or graywacke,1
+fine-grained grey stone,1
+possibly red quartzite or basalt,1
+metagraywacke,1
+basalt or metagraywacke,1
+fine-grained greenish-grey stone,1
+white limestone with traces of black paint,1
+glazed stone,1
+gut,1
+alloys,1
+unspecified metal,1
+dom palm,1
+feather,1
+peridot,1
+incense,1
+jade,1
+christ thorn,1
+fir,1
+tapestry weave in red wool  and undyed linen on plain-weave ground of undyed linen,1
+millefiori glass,1
+gray porphyritic diorite,1
+wood or ivory,1
+painted plaster,1
+silk and cotton,1
+ink and opaque watercolor on parchment,1
+jet,1
+inks on paper,1
+brass with silver inlay,1
+polychrome marble,1
+wool and undyed linen,1
+silk on cotton,1
+opaque watercolor and gold on paper,1
+bronze with green patina,1
+brass inlaid with silver,1
+tapestry weave in purple-colored,1
+wool and twill,1
+goat's wool,1
+silk and linen,1
+earhenware,1
+ivory or wood,1
+undyed linen with tapestry woven wool decorations,1
+black and red ink on venetian paper,1
+eathenware,1
+silk and wool,1
+leather and papyrus,1
+sand,1
+pear wood,1
+ochre,1
+sheep wool,1
+pasteboard,1
+lead alloy,1
+sepiolite,1
+albite,1
+walrus ivory,1
+cow bone,1
+pig bone,1
+goat bone,1
+henna wood,1
+cement,1
+goat skin,1
+date palm stem,1
+gazelle skin,1
+panther skin,1
+lion hair,1
+bladder,1
+giraffe skin,1
+hippopotamus leather,1
+soil,1
+rhinoceros skin,1
+rattan,1
+antelope horn,1
+pvc,1
+silver alloy,1
+olivene,1
+granite gneiss,1
+purpura shell,1
+goat leather,1
+tuff,1
+eggshell,1
+sheep tissue,1
+jackal tissue,1
+baboon bone,1
+cone shell,1
+granitoid,1
+petunculus shell,1
+chrysoprase,1
+andesite,1
+african rosewood,1
+fig,1
+date,1
+nut,1
+vegetal,1
+wheat,1
+sycomore fig fruit,1
+monkey tissue,1
+fish tissue,1
+elm wood,1
+sulphur,1
+agate and quartz,1
+limestone with red paint,1
+red earthenware,1
+palm leaf basketry,1
+fine-grained quartzite,1
+red jasper or carnelian,1
+homogenous travertine,1
+fossiliferous limestone,1
+hornblende diorite,1
+dioritic gneiss,1
+blue green glazed faience,1
+ivory with black organic material in incisions,1
+quartz crystal,1
+probably elephant ivory and organic material,1
+burned grain,1
+dark green jasper,1
+gulleh ware,1
+brown ware pottery,1
+pottery: reddish-brown ware,1
+sa-amulets: silver,1
+limestone table,1
+white speckled black stone,1
+black incised ware,1
+coarse light red pottery,1
+coarse red pottery with hematite wash,1
+marl clay a3,1
+faded faience,1
+gold over pitch,1
+crystalline travertine jar,1
+human remains wrapped with linen and mummification material,1
+white agate,1
+faience inlay,1
+jar: pottery,1
+tuber,1
+"baked mud
+papyrus",1
+linen net,1
+papyrus reed,1
+linen dyed with indigotin,1
+gabroic rock,1
+silver disk with a wood  handle sheathed in gold,1
+stucco with blue,1
+ebony and ivory,1
+"brown stone 
+quartzwacke",1
+gypsum mortar,1
+encaustic on wood,1
+green jasper plaque on gold earring,1
+encaustic on wood with gold leaf,1
+gesso or mud,1
+lead glazed terracotta,1
+green schist,1
+aeolian sandstone,1
+travertine  with traces of gesso and red pigment,1
+dolomitic limestone,1
+fine red pottery with hematite wash,1
+"linen
+sandstone",1
+main support: ink,1
+black obsidian ball beads,1
+vitreous material,1
+tempera paint on mud plaster,1
+painted wood and cartonnage,1
+painted red pottery,1
+dried mud,1
+gray steatite,1
+brown limestone,1
+painted and gilded wood,1
+coffin: cedar,1
+hammered bronze or copper alloy,1
+ivory: hippopotamus,1
+hornblende granite,1
+limestone with traces of color,1
+painted indurated limestone,1
+quartz and hematite,1
+paint,1
+mottled semi-translucent  quartz,1
+black serpentinite,1
+probably pegmatitic quartz diorite,1
+limestone breccia,1
+tray: limestone,1
+striated glass,1
+bronze and iron,1
+black diorite,1
+greenish limestone,1
+black bronze with gold,1
+european white birch,1
+amethyst with gold caps,1
+grey schist,1
+amber glass,1
+sandy fossiliferous limestone,1
+mud or clay,1
+palm leaves,1
+gold inlaid with carnelian,1
+dark blue glassy faience,1
+seeds,1
+halfa grass and rush basketry,1
+green jasper scarab on gold ring,1
+greenish faience,1
+copper alloy with traces of gilding,1
+hard brownish mottled stone,1
+light greenish stone,1
+pale green glazed steatite,1
+green-and-white banded jasper,1
+disk: silver,1
+cow hide,1
+cream-white glazed steatite,1
+red breccia,1
+terracotta painted brown,1
+dried bugs,1

@@ -1,1 +1,62 @@
-{"artifact_name": "statue", "Object Type": ["statue"], "Museum number": ["EA17170"], "Description": [" Fragmentary upper body of a limestone male figure, broken from the chest. The figure has a shaven head and protruding ears, and faint traces of a red-brown paint across the head and neck. His eyebrows are faintly indicated with a shallow arched ridge, and his eyes are rounded with hooded eyelids. His nose is damaged but the remaining outline shows a broad tip, with subtle folds of flesh at either side of the nose. The outer corners of his mouth are clearly upturned, and his lower lip is visibly larger than his upper lip. His face appears fleshy and rounded at the jawline. At his shoulders are the remains of a ridged pattern of his clothing, though the neckline is no longer discernable. Further traces of a red-brown paint are also visible across his chest and back. Two rounded outlines at either side of his chest may indicate that he held objects across his body. On the reverse is the top section of a slim back-pillar, inscribed with a single column of text. There are visible traces of a darker colour, blue, and yellow paint across the back-pillar and within the hieroglyph signs. The top of the head and back-pillar have suffered damage, and there are numerous scratches to the surface across the head, neck, and face. His nose has also been damaged. "], "Cultures/periods": ["19th Dynasty"], "Findspot": [" Found/Acquired: Egypt "], "Materials": ["limestone"], "Technique": ["painted"], "Dimensions": [" Height: 18 centimetres (max) ", " Width: 19.90 centimetres ", " Depth: 12 centimetres "], "$Inscriptions": [" "], "Curator's comments": [" The deities Osiris and Ptah mentioned within the surviving inscription may provide some indication of provenance, possibly Memphis or Saqqara. ", " See PM viii, p. 637. "], "Bibliographic references": [" Budge 1922 / British Museum. Guide to the fourth, fifth and sixth Egyptian rooms, and the Coptic room (p. 132, no 108) ", " Vandier 1958 / Manuel d\u2019arch\u00e9ologie \u00e9gyptienne (p. 652) ", " Porter and Moss 2008 / Topographical bibliography of ancient Egyptian hieroglyphic texts, reliefs, and paintings: Objects of Provenance not known (p. 641) "], "Location": ["Not on display"], "Condition": ["incomplete - head and shoulders only"], "Acquisition name": ["Purchased from: Rev Greville John Chester"], "Acquisition date": ["1885"], "Department": ["Egypt and Sudan"], "BM/Big number": ["EA17170"], "Registration number": ["1885,0723.150"]}
+{
+	"artifact_name": "statue",
+	"Object Type": [
+		"statue"
+	],
+	"Museum number": [
+		"EA17170"
+	],
+	"Description": [
+		" Fragmentary upper body of a limestone male figure, broken from the chest. The figure has a shaven head and protruding ears, and faint traces of a red-brown paint across the head and neck. His eyebrows are faintly indicated with a shallow arched ridge, and his eyes are rounded with hooded eyelids. His nose is damaged but the remaining outline shows a broad tip, with subtle folds of flesh at either side of the nose. The outer corners of his mouth are clearly upturned, and his lower lip is visibly larger than his upper lip. His face appears fleshy and rounded at the jawline. At his shoulders are the remains of a ridged pattern of his clothing, though the neckline is no longer discernable. Further traces of a red-brown paint are also visible across his chest and back. Two rounded outlines at either side of his chest may indicate that he held objects across his body. On the reverse is the top section of a slim back-pillar, inscribed with a single column of text. There are visible traces of a darker colour, blue, and yellow paint across the back-pillar and within the hieroglyph signs. The top of the head and back-pillar have suffered damage, and there are numerous scratches to the surface across the head, neck, and face. His nose has also been damaged. "
+	],
+	"Cultures/periods": [
+		"19th Dynasty"
+	],
+	"Findspot": [
+		" Found/Acquired: Egypt "
+	],
+	"Materials": [
+		"limestone"
+	],
+	"Technique": [
+		"painted"
+	],
+	"Dimensions": [
+		" Height: 18 centimetres (max) ",
+		" Width: 19.90 centimetres ",
+		" Depth: 12 centimetres "
+	],
+	"$Inscriptions": [
+		" "
+	],
+	"Curator's comments": [
+		" The deities Osiris and Ptah mentioned within the surviving inscription may provide some indication of provenance, possibly Memphis or Saqqara. ",
+		" See PM viii, p. 637. "
+	],
+	"Bibliographic references": [
+		" Budge 1922 / British Museum. Guide to the fourth, fifth and sixth Egyptian rooms, and the Coptic room (p. 132, no 108) ",
+		" Vandier 1958 / Manuel d’archéologie égyptienne (p. 652) ",
+		" Porter and Moss 2008 / Topographical bibliography of ancient Egyptian hieroglyphic texts, reliefs, and paintings: Objects of Provenance not known (p. 641) "
+	],
+	"Location": [
+		"Not on display"
+	],
+	"Condition": [
+		"incomplete - head and shoulders only"
+	],
+	"Acquisition name": [
+		"Purchased from: Rev Greville John Chester"
+	],
+	"Acquisition date": [
+		"1885"
+	],
+	"Department": [
+		"Egypt and Sudan"
+	],
+	"BM/Big number": [
+		"EA17170"
+	],
+	"Registration number": [
+		"1885,0723.150"
+	]
+}

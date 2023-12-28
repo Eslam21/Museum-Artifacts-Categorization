@@ -1,1217 +1,2517 @@
 object_classification,count
-coin,6857
-shabti,3837
-ostracon,3591
-figure,3337
-papyrus,2713
-transport amphora,2342
-amulet,2176
-vessel,1965
-bowl,1694
-print,1541
-chalice,1468
-figurine,1455
-scarab,1409
-stela,1319
-vase,1135
-statue,1070
-weight,1013
-tablet,1004
-jar,998
-bead,737
+coin,6846
+shabti,3805
+figure,2925
+papyrus,2633
+ostracon,2568
+transport amphora,2335
+amulet,1870
+vessel,1798
+bowl,1646
+chalice,1466
+figurine,1453
+scarab,1392
+stela,1299
+print,1186
+vase,1121
+statue,1059
+tablet,986
+weight,943
+jar,929
+"ostracon ,  vessel",712
 ionian cup,680
-cup,674
-relief,606
-amphora,587
-drawing,576
+bead,677
+cup,659
+relief,586
 digital photograph,564
-arrow-head,546
-coffin,536
-textile,523
-lamp,509
-plate,485
-canopic jar,430
-necklace,385
-krater,385
-oinochoe,378
+amphora,546
+arrow-head,545
+coffin,505
+plate,482
+lamp,478
+krater,376
+oinochoe,362
+canopic jar,353
 coptic textile,337
-dish,336
+necklace,323
 human figurine,319
 kantharos,309
+dish,309
 animal,290
-mummy-label,288
+"drawing ,  print study",287
+mummy-label,278
 column krater,264
-postcard,263
 net-sinker,255
-ear-ring,249
-cowroid,240
-oil-lamp,239
-finger-ring,236
-seal-impression,231
-dinos,230
-blade,228
-neck-amphora,215
-wine-jar,215
+postcard,245
+"amulet ,  figure",242
+drawing,242
+cowroid,236
+oil-lamp,232
+seal-impression,228
+dinos,225
+blade,225
 unknown,214
-pendant,210
-jug,203
-axe,202
-model,187
-bracelet,185
-scaraboid,183
-sculpture,180
-cast,177
-inlay,173
+neck-amphora,214
+finger-ring,204
+jug,196
+axe,191
+bracelet,181
+sculpture,177
+textile,174
 scarab-mould,171
-comb,169
-photographic print,167
+comb,168
 palette,167
-bottle,165
-temple-relief,163
-goblet,158
-band-cup,156
-knife,153
-kylix,151
-plaque,146
-vessel-stamp,145
-lid,142
-coffin-fitting,136
-flask,134
-token,132
+"print ,  book-illustration",165
+pendant,163
+"cast ,  relief",158
+inlay,158
+goblet,157
+temple-relief,157
+band-cup,155
+photographic print,153
+scaraboid,153
+bottle,150
+kylix,150
+ear-ring,146
+knife,143
+vessel-stamp,143
+coffin-fitting,135
+"ostracon ,  jar",133
+token,131
 scaraboid-mould,131
-artefact,129
-tile,127
+flask,126
+heavy chalice,126
 finger ring,126
 udjat-amulet,126
-heavy chalice,126
 receptacle,125
+"figure ,  plaque",125
 foundation deposit,124
 pitcher,124
+lid,121
+tile,119
 funerary,117
+"ostracon  ,  vessel",114
 scarab seal,113
-mask,110
 sculpture in the round,110
+"wine-jar ,  ostracon",110
 sculptor's model,109
 scraper,108
-kohl-jar,107
-sandal,105
 funerary cone,105
-cylinder seal,102
+artefact,105
+sandal,105
+mask,105
+"figure ,  amulet",103
+kohl-jar,102
+"vessel ,  ostracon",102
+wine-jar,101
 phiale mesomphalos,101
-animal remains,98
-votive box,96
-skyphos,96
-jewellery,94
-tool/implement,93
-tomb-relief,92
-mummy-wrapping,92
+cylinder seal,100
+animal remains,95
+skyphos,94
 earring,91
+jewellery,89
+mummy-wrapping,88
 vessels,88
-figure-fitting,87
-furniture-fitting,87
-lekanis,86
-seal,84
+"votive box ,  figure",88
+tomb-relief,87
+tool/implement,86
+figure-fitting,85
 ionian little-master cup,83
 base-ring juglet,82
-situla,82
 mirror,82
-medal,81
-foundation-deposit,80
-alabastron,79
-game-piece,78
-basket,78
-box,76
-tomb-painting,73
-bell krater,72
+"print ,  satirical print",79
+medal,78
+seal,78
+game-piece,77
+situla,75
+"ear-ring ,  hair-ring",74
+basket,73
+box,72
 unspecified receptacle,71
-figured ostracon,68
-panel,68
+tomb-painting,71
+bell krater,70
+plaque,69
 stemmed bowl,68
+figured ostracon,68
+alabastron,68
 drill-core,68
 siana cup,67
-aryballos,67
+"canopic jar ,  model",67
 offering table,66
 tools,65
-offering-table,65
-kohl-tube,64
+lekanis,65
+panel,64
 canopic jar lid,64
+"weight ,  tool/implement",63
 heart scarab,63
-beaker,62
+"papyrus ,  codex",62
+beaker,60
 amulets,60
-base,60
-human mummy,59
-jar-sealing,56
+aryballos,59
+offering-table,59
+base,58
 kohl pot,56
+"furniture-fitting ,  figure",55
 ritual objects,54
 rosette bowl,53
-pectoral,51
-spoon,51
-nail,51
-sistrum,50
+kohl-tube,52
 arrow,49
+pectoral,49
 lip-cup,49
 headrest,49
-cosmetic-palette,48
+spoon,49
 seal impression,48
-disc,48
-bangle,48
-curse,48
-doll,47
+nail,48
+"jar ,  ostracon",47
+model,46
 cup type a,46
-kohl-pot,45
-dagger,45
+cosmetic-palette,46
+bangle,46
+jar-sealing,45
+"textile ,  cloth",45
+"textile ,  garment ,  tunic",45
 olpe,44
-architecture,44
-lekythos,44
-sealing,43
-kotyle,43
-model group,43
-heart-scarab,42
-kohl-stick,42
-animal mummy,42
-stove,42
+"plaque ,  foundation-deposit",44
+doll,44
+curse,43
+lekythos,42
 cosmetic and medical equipment and implements,42
+kotyle,42
+kohl-stick,42
+sistrum,42
 "receptacle, stand for",41
 undefinable,41
-trefoil-mouth oinochoe,41
-flake,41
-chisel,40
+stove,41
+"textile ,  furnishing",41
 imitation vessel,40
-stand,40
+architecture,40
+dagger,40
 toiletries,40
+trefoil-mouth oinochoe,40
+flake,39
 mummy trappings,39
-trial-piece,38
-ring,38
-razor,38
-cosmetic-spoon,38
-gaming-piece,38
+kohl-pot,39
 cosmetic-jar,38
+razor,38
+chisel,38
 kohl tube,37
+gaming-piece,37
 cup-skyphos,37
-arrow head,36
-filter,36
+heart-scarab,37
+cosmetic-spoon,36
+stand,36
 architectural decoration,36
-spindle-whorl,35
+arrow head,36
+"figure ,  votive plaque",36
+sealing,35
 amulet mould,35
-architectural element,34
-figure-mould,34
-hydria,34
-bird bowl,34
-mould,34
-writing-tablet,34
-sarcophagus,34
 epigraphy,34
-ampulla,33
-tablet case,33
+hydria,34
+figure-mould,34
+bird bowl,34
+architectural element,34
+spindle-whorl,33
 stamp,33
+"amphora ,  oinochoe",33
+mould,33
 wall painting,33
-stopper,33
-toy,33
+trial-piece,33
+ampulla,32
 implements and utensils,32
-cameo,32
-juglet,32
-kernos,32
-capital,32
-heart-amulet,32
-frieze,31
-cosmetic-vessel,31
-ear-plug,31
+writing-tablet,32
+tablet case,32
 cosmetic-dish,31
+capital,31
 false door,31
-head-rest,31
-djed-amulet,30
-moulding,30
+juglet,31
+ring,31
+kernos,31
+frieze,31
+"foundation-deposit ,  plaque",31
+"filter ,  jug",31
 stemless cup,30
 breast cover,30
 boat,30
-male mummy,29
-naukratic figure,29
-mummy-case,29
-lagynos,29
-wall-painting,29
-"warfare, hunting and fishing equipment",29
+djed-amulet,30
+moulding,30
 squat lekythos,29
-intaglio,29
+"warfare, hunting and fishing equipment",29
+head-rest,29
 gordion cup,29
-shabti-box,28
-mortarium,28
-naos,28
+heart-amulet,29
+furniture-fitting,29
+male mummy,29
+lagynos,28
 domestic equipment and utensils,28
-cosmetic-box,27
+naukratic figure,28
+cameo,28
+"animal mummy ,  mummy-wrapping",27
 babylonian,27
-spacer-bead,27
-bell,27
-album,27
-fish-hook,27
-spear-head,27
-mummy-mask,27
-dice,27
-mummy-portrait,27
 mug,27
-block,26
-medallion,26
-adze,26
-column,26
-jewellery-fitting,26
+intaglio,27
+fish-hook,27
 cylix,26
-lintel,26
-tomb equipment,25
+column,26
+mummy-portrait,26
+naos,26
+cosmetic-vessel,26
+"ear-plug ,  ear-stud ,  bead",26
+mortarium,26
+dice,26
+spear-head,26
+lintel,25
 bead net,25
 cross pendant,25
-pyxis,25
+medallion,25
+tomb equipment,25
+block,25
 armlet,25
-key,25
-amulet-mould,24
-bead-net,24
-sumerian,24
+wall-painting,24
 portrait,24
-eye-cup,23
-lotus bowl,23
-architrave,23
-"scarab, seal, scaraboid, intaglio and similar objects",23
+sumerian,24
+sarcophagus,24
+key,24
+amulet-mould,24
+shabti-box,24
 furniture decoration,23
-magical gem,23
-stool,23
+"drawing ,  sketch-book",23
 sample,23
-hair-pin,23
-shoe,23
+"scarab, seal, scaraboid, intaglio and similar objects",23
+"textile ,  mummy-wrapping",23
+cosmetic-box,23
+architrave,23
 jewelry,23
-unspecified religious and cult object,22
-basin,22
-spear,22
-shabti box,22
-button seal,22
-sanctuary-lamp,22
-stirrup jar,22
-amphoriskos,22
+"album ,  photographic print",23
+stool,23
 vegetal remains,22
+eye-cup,22
+toy,22
+stirrup jar,22
+human mummy,22
+button seal,22
+lotus bowl,22
 saucer lamp,22
-handle,22
-figure vase,21
-battle-axe,21
+adze,22
+unspecified religious and cult object,22
+shoe,22
+pyxis,22
+shabti box,22
+sanctuary-lamp,22
 commemorative scarab,21
 volute krater,21
-sickle,20
-lekane,20
-cloth,20
+spear,21
+figure vase,21
 coin-mould,20
-needle,20
 droop cup,20
 pilgrim flask,20
+sickle,20
+battle-axe,20
+cloth,20
+amphoriskos,20
 offering basin,20
-incense-burner,20
-altar,20
-fitting,19
-platter,19
+handle,20
+lekane,20
+"magical gem ,  intaglio",20
+bell,20
+needle,19
+"textile ,  garment",19
+basin,19
 crocodile mummy,19
-bust,19
-charm,19
-ornament,19
-votive figure,19
 tweezers,19
+"ostracon ,  bowl",19
+incense-burner,19
+"stopper ,  seal-impression",19
+"figure ,  vessel",19
 statuette,19
-clapper,18
-water-bottle,18
-stemmed dish,18
+"lekanis ,  lid",19
+votive figure,19
+platter,19
 hairpin,18
 accessory,18
-hes-vase,18
-bobbin,18
-cornice,18
-sword,18
-manuscript,18
 soul house,18
-brick,18
-pen,18
 new year-flask,18
+ornament,18
+"postcard ,  photographic print",18
+pen,18
 tunic,18
-mallet,17
+cornice,18
+brick,18
+hes-vase,18
+"amulet ,  pendant",18
+clapper,18
 winged scarab,17
-club,17
-belly amphora,17
+"scaraboid ,  disc",17
+mallet,17
 shroud,17
-religious or cult object,17
-smoking-pipe,17
-scribal palette,17
-stamp-seal,17
+club,17
 erotic figurine,17
-hoe,16
-cat mummy,16
+religious or cult object,17
+foundation-deposit,17
+belly amphora,17
+smoking-pipe,17
+disc,16
+hair-pin,16
+"model ,  axe",16
+sword,16
+"vessel ,  handle",16
+bobbin,16
 extended mask,16
-shabti-coffin,16
-askos,16
-storage-vessel,16
-shrine,16
-falcon mummy,15
-bandage,15
-mummy label,15
-prism,15
-cup type c,15
-salt-cellar,15
-little-master cup,15
-written document,15
-loom-weight,15
-mummy-brace,15
-peg,15
+manuscript,16
+cat mummy,16
+"textile ,  tunic",16
+"disc ,  scaraboid",16
+water-bottle,16
+"ear-ring ,  bead",16
+"model group ,  figure",15
+bust,15
 amuletic wand,15
-ear-stud,15
-aegis,14
-mace,14
+mummy-brace,15
+bandage,15
+"foundation-deposit ,  sample",15
+"mummy-case ,  cartonnage",15
+written document,15
+"textile ,  cloth ,  mummy-wrapping",15
+loom-weight,15
+prism,15
+mummy label,15
+charm,15
+falcon mummy,15
+cup type c,15
+"storage-vessel ,  ostracon",15
+little-master cup,15
+"bead ,  amulet",14
+bead-net,14
+stamp-seal,14
+salt-cellar,14
+shrine,14
+"finger-ring ,  scarab",14
+fitting,14
+"drawing ,  album",14
+"print ,  newspaper/periodical",14
+"tablet ,  tablet case",14
 aeolipile,14
-harpoon,14
 textiles,14
-rod,14
-pigment sample,13
-pin,13
-net-weight,13
+hoe,14
 counterpoise,13
-patera,13
-hypocephalus,13
-bed,13
-anklet,13
-painting,13
-belt,13
-knob,13
-pestle,13
-model building/structure,13
-obelisk,13
 furniture,13
-brazier,13
-censer,13
+pestle,13
+askos,13
+harpoon,13
+"pendant ,  bead",13
+"print ,  title-page",13
 stamnos,13
 spindle whorl,13
-dinos-stand,12
-musical instrument,12
-shield,12
-name-bead,12
-wig ornament,12
+"pendant ,  amulet",13
+"mummy-mask ,  cartonnage",13
+mace,13
+obelisk,13
+"relief ,  trial-piece",13
+"stemmed dish ,  plate",12
 female mummy,12
-gem,12
-colossus,12
-mat,12
-funerary equipment,12
-staff,12
-brush,12
+censer,12
+pin,12
+"lamp ,  lamp-ornament",12
+hypocephalus,12
 debitage,12
+"shabti ,  forgery",12
+model group,12
+wig ornament,12
 fan,12
+name-bead,12
+bed,12
+dinos-stand,12
+colossus,12
+"human mummy ,  mummy-wrapping",12
 tombstone,12
-ewer,12
 chair,12
+musical instrument,12
 persian,12
-theatre mask,12
-unguentarium,12
-pot,12
+aegis,12
+brush,12
+"cast ,  statue",12
+pigment sample,12
+mat,12
+altar,11
+net-weight,11
+gem,11
+perirrhanterion,11
 house,11
-cap,11
-jamb,11
-canopic chest,11
-granary,11
+"jar-sealing ,  seal-impression",11
 cup type b,11
-sceptre,11
-counter,11
-mortar,11
+celt,11
+"textile ,  wrapping",11
+"shabti-coffin ,  shabti",11
+ewer,11
 diadem,11
 unspecified tomb equipment,11
-perirrhanterion,11
-votive offering,11
-celt,11
+granary,11
+anklet,11
 game piece,11
-spindle,11
+spacer-bead,11
 hera-cup,11
-whetstone,11
-musical pipe,11
-cartonnage,11
-game-board,11
+mummy-mask,11
+"textile ,  bag",11
+"lid ,  lekanis",11
+counter,11
+"theatre mask ,  figure",11
+jamb,11
+model building/structure,11
+"model  ,  figure",11
+knob,11
 writing equipment,10
-drum,10
-canopic box,10
-door,10
-furniture element,10
-part of lamp,10
-one-handler,10
-lantern,10
 brooch,10
-chess-piece,10
-writing materials,10
-rhyton,10
-offering-cup,10
-hook,10
-cippus,10
-hammer,10
-collar,10
-lamps,10
+"plaque ,  figure",10
+whetstone,10
+"print ,  frontispiece",10
 unspecified fragment of mummy trappings,10
-label,9
-snuff-bottle,9
-chain,9
-throwing-stick,9
+"mummy-label ,  forgery",10
+writing materials,10
+"kohl-tube ,  kohl-stick",10
+hammer,10
+canopic box,10
+furniture element,10
+shield,10
+"shabti ,  amulet",10
+"patera ,  votive offering",10
+chess-piece,10
+painting,10
+"spacer-bead ,  bead",10
+door,10
+musical pipe,10
+drum,10
+lamps,10
+part of lamp,10
+lantern,10
+"model ,  axe ,  foundation-deposit",10
+unguentarium,10
+one-handler,10
+"figure ,  mask",10
 35mm slide,9
-buckle,9
-string,9
-spatula,9
-girdle,9
-unspecified equipemnt,9
-jewellery mould,9
 water-vessel,9
-lock,9
+brazier,9
+unspecified equipemnt,9
+rod,9
+"photographic print  ,  album",9
+label,9
+canopic chest,9
+mortar,9
+"bead ,  necklace",9
 fish-plate,9
-ibis mummy,9
-ear stud,9
-kohl stick,9
 lamp-holder,9
-panathenaic amphora,8
-komast cup,8
-hat,8
-button,8
-cooking-pot,8
-ankh-amulet,8
-pyramide,8
-writing board,8
-portrait bust,8
-game component,8
-calyx-krater,8
+"offering-cup ,  foundation-deposit",9
+"model group ,  boat ,  figure",9
+"papyrus ,  calendar",9
+ear stud,9
+rhyton,9
+"bead-net ,  bead",9
+"print ,  counterproof",9
+cap,9
+jewellery mould,9
+ibis mummy,9
+sceptre,9
+ear-stud,9
+pot,9
+staff,9
+snuff-bottle,9
+"bead ,  pendant",9
+cippus,9
+kohl stick,9
 kiln-furniture,8
-clothing,8
-human skeletal remains,8
-sealstone,8
-bakery,8
+throwing-stick,8
+belt,8
 unspecified clothing,8
-candlestick,8
-wine-vessel,8
-pedestal,8
-tray,8
-boss,8
-reed pen,8
+bakery,8
+komast cup,8
 multiple vase,8
-shawl,8
-mosque-lamp,8
-covered cup,7
+pedestal,8
+ankh-amulet,8
+"oinochoe ,  amphora",8
+"necklace  ,  bead ,  pendant",8
+"textile ,  tapestry",8
+hook,8
+buckle,8
+candlestick,8
+reed pen,8
+"figure ,  religious/ritual equipment",8
+calyx-krater,8
+girdle,8
+cooking-pot,8
+panathenaic amphora,8
+"peg ,  drill",8
+game component,8
+"foundation-deposit ,  animal remains ,  sacrificial offering",8
+writing board,8
+"figure ,  forgery",8
+"textile ,  hair-net",8
+spatula,8
+clothing,8
+pyramide,8
+"necklace ,  bead",8
+animal mummy,8
+"necklace  ,  bead",7
+"textile ,  mummy-padding",7
+arch,7
 mammal bone,7
-coins,7
+cartonnage,7
+outer bands,7
+jewellery-fitting,7
+unspecified model,7
+covered cup,7
 signet-ring,7
 unspecified jewellery,7
-libation-vase,7
-dress,7
-oar,7
-assyrian,7
-sailing boat,7
-binding,7
-grinder,7
+kotyliskos,7
+pelike,7
+"print ,  popular print",7
 graffito,7
-miniature coffin,7
-castanet,7
-storage-jar,7
-rosary,7
-unspecified model,7
-burnisher,7
-harp,7
-human remains,7
-mummy-board,7
-outer bands,7
-case,7
-offering stand,7
-arch,7
+"hair-pin ,  dress-pin",7
+assyrian,7
+"aryballos ,  figure",7
+portrait bust,7
+portrait head,7
+coins,7
+offering spoon,7
+grinder,7
+"bowl ,  paint sample",7
+votive offering,7
+nose-ring,7
+"amulet ,  plaque",7
 child mummy,7
+lock,7
+chalice-cup,7
+bolsal,7
+harp,7
 strainer,7
 pilaster,7
-waster,7
-chalice-cup,7
-vessel-fitting,7
-nose-ring,7
-religious/ritual equipment,7
-pelike,7
-kotyliskos,7
-bolsal,7
-offering spoon,7
-portrait head,7
-pounder,6
-spinning and weaving,6
-talatat,6
-toys/games,6
-pyramidion,6
-apron,6
-awl,6
-ointment-spoon,6
-sheath,6
-foot stool,6
-figurine mould,6
+offering stand,7
+rosary,7
+mummy-board,7
+shawl,7
+oar,7
+miniature coffin,7
+castanet,7
+sailing boat,7
+storage-jar,7
+mosque-lamp,7
+"necklace  ,  bead ,  amulet",6
+"sarcophagus ,  lid",6
+"scarab ,  amulet",6
+"ear-stud ,  ear-plug",6
+burnisher,6
 throwing-knife,6
-unspecified coffin,6
-clepsydra,6
-hinge,6
-unspecified cosmetic and medical equipment and implement,6
-magical brick,6
-mummy cover,6
-ointment tablet,6
-convex pyxis,6
-papyrus-sealing,6
-jewellery-mould,6
-hanging lamp,6
-cross,6
-pectoral cross,6
-brewery,6
-purse,6
-musical instruments,6
-lamp-stand,6
-polisher,6
+"situla ,  votive offering ,  model",6
+"wine-vessel ,  ostracon",6
 wreath,6
-rasp,6
-coin-weight,5
+"bell ,  amulet",6
+scribal palette,6
+sheath,6
+convex pyxis,6
+"figure ,  model group",6
+hinge,6
+"ostracon ,  forgery",6
+"ointment-spoon ,  cosmetic-tool/implement",6
+votive box,6
+pyramidion,6
+hanging lamp,6
+pectoral cross,6
+button,6
+"dish ,  plate",6
+"vase ,  model",6
+"model ,  sandal",6
+"figure ,  plaque ,  model group",6
+"ostracon ,  wine-jar",6
+figurine mould,6
+foot stool,6
+brewery,6
+stemmed dish,6
+ointment tablet,6
+"figure ,  alabastron",6
+unspecified cosmetic and medical equipment and implement,6
+dress,6
+spinning and weaving,6
+stopper,6
+spindle,6
+"jewellery-fitting ,  collar",6
+mummy cover,6
+collar,6
+"string ,  binding",6
+clepsydra,6
+"alabastron ,  figure",6
+talatat,6
+game-board,6
+unspecified coffin,6
+toys/games,6
+sealstone,6
+"textile ,  curtain",6
+awl,6
+"bottle ,  snuff-bottle",6
+musical instruments,6
+"vessel ,  figure",5
 throw-stick,5
-ladle,5
-rope,5
-breast-ornament,5
-neck-ornament,5
-bezel,5
-votive plaque,5
-leg,5
-boat-fitting,5
-nikosthenic pyxis,5
-seal-ring,5
-ring seal,5
-toilet-spoon,5
-knuckle-bone,5
-stylus,5
-sundial,5
-kohl-scoop,5
+bread,5
+bow,5
+"oinochoe  ,  amphora",5
+"photographic print  ,  album ,  postcard",5
 ink-well,5
+"papyrus-sealing ,  seal-impression",5
+"model ,  vase",5
+"dish ,  ostracon",5
+coffee-cup,5
+pump drill,5
+game,5
+tray,5
+mace-head,5
+apron,5
+canteen token,5
+"unspecified warfare,hunting,fishing equipment",5
+leg,5
+coffee-pot,5
+pick,5
+human hair,5
+polisher,5
+neck-ornament,5
+cross,5
+bezel,5
+"amulet  ,  figure",5
+ring seal,5
+wedding-dress,5
+filter,5
+mummy-case,5
+waster,5
+"tile ,  frieze",5
+"print ,  ornament print",5
+coin-weight,5
+phiale,5
+"figure ,  relief",5
+"wall-painting ,  architecture",5
+hat,5
 shabti coffin,5
 measuring of weight,5
-document,5
-ball,5
-"unspecified warfare,hunting,fishing equipment",5
-wedding-dress,5
-human hair,5
-game,5
-coffee-pot,5
-mace-head,5
-pump drill,5
-banknote,5
-canteen token,5
-badge,5
-coffee-cup,5
-whip,5
-saw,5
-trousers,5
-bow,5
-bread,5
-cassel cup,5
+"model ,  figure",5
 stick,5
-phiale,5
-pick,5
-jar-cover,4
-handkerchief,4
-cubit rod,4
-jar-label,4
-wig-curler,4
-thymiaterion,4
-mirror-case,4
-ring aryballos,4
-door-jamb,4
-armour,4
-window-grille,4
-flute,4
-toilet-box,4
-hair-ornament,4
-soles,4
-architectural model,4
-folding stool,4
-pen-case,4
-sling-shot,4
-rattle,4
-fly-whisk,4
-slipper,4
-book-cover,4
-cordage,4
-lebes gamikos,4
-stud,4
-foot-rasp,4
-feeder,4
-cosmetic-spatula,4
-cosmetic-container,4
+"textile ,  wall-hanging",5
+"sistrum ,  votive offering",5
+document,5
+kohl-scoop,5
+"ostracon  ,  storage-vessel",5
+knuckle-bone,5
+"figure ,  trial-piece",5
+"ostracon  ,  bowl",5
+stylus,5
+"amulet ,  bead",5
+human skeletal remains,5
+"finger-ring ,  scaraboid",5
+whip,5
+"axe ,  model",5
+"krater ,  dinos",5
+ball,5
+toilet-spoon,5
+"amulet ,  sticker",5
+"ostracon ,  dish",5
+cassel cup,5
+ladle,5
+"inlay ,  naos",5
+"bowl ,  votive offering",4
+"dinos ,  krater",4
+"figure ,  herm",4
 saucer,4
-slag,4
-wall,4
-antefix,4
-veil,4
-reserve head,4
-sash,4
-arm-shaped censer,4
-jar label,4
-lamp-mould,4
+"mask ,  figure",4
+"figure ,  lamp",4
+"pendant ,  aegis",4
+"dagger ,  knife",4
+"vessel ,  lid",4
+"papyrus ,  papyrus-sealing",4
+"figure ,  flask",4
+lebes gamikos,4
+"textile ,  sock",4
+"brazier ,  stove",4
 sickle-sword,4
-head-dress,4
-cup-stand,4
-ink-pot,4
-jar-stand,4
-pillar,4
-broom,4
-horse-trappings,4
-spacer-bar,4
-tripod pyxis,4
-aegis with counterpoise,4
-libation-tank,4
-food product,4
-lip-ornament,4
-eye-bowl,4
+banknote,4
 sinker of net,4
+"cup ,  kylix",4
+"mummy-case ,  cartonnage ,  human mummy",4
+flute,4
+food product,4
+"textile ,  veil",4
+lamp-stand,4
+feeder,4
+"textile ,  hat",4
+"basket ,  lid",4
+libation-tank,4
+jar label,4
+"shabti ,  shabti-coffin",4
+window-grille,4
+"stopper ,  plug ,  seal-impression",4
 qur'an-board,4
+"curse ,  writing-tablet",4
+"scribal palette ,  pigment sample",4
+lip-ornament,4
+"scarab ,  forgery",4
+saw,4
+architectural model,4
+trousers,4
+"coffin ,  model ,  figure ,  textile",4
+pillar,4
+votive plaque,4
+hair-ornament,4
+"kohl-pot ,  kohl-stick",4
+door-jamb,4
+"bowl ,  game-piece",4
+"statue ,  forgery",4
+"heart-scarab ,  forgery",4
+cubit rod,4
+slipper,4
+jar-stand,4
+"funerary equipment ,  tag",4
+"figure ,  doll",4
+"funerary equipment ,  animal remains",4
+"chain ,  animal equipment ,  personal ornament",4
+wig-curler,4
+"textile ,  furnishing ,  shawl ,  garment",4
+thymiaterion,4
+reserve head,4
+arm-shaped censer,4
+"kohl-jar ,  kohl",4
+"libation-vase ,  foundation-deposit",4
+"adze ,  model",4
+"dish ,  model",4
+"plaque ,  box",4
+soles,4
+rope,4
+seal-ring,4
+head-dress,4
+case,4
+"peg ,  foundation-deposit",4
+cordage,4
+slag,4
 tobacco-pipe,4
+human remains,4
+"transport amphora ,  model",4
+magical brick,4
+"coffin ,  human mummy ,  mummy-wrapping",4
+aegis with counterpoise,4
+foot-rasp,4
+jar-label,4
+"necklace ,  bead ,  amulet",4
+"cup-stand ,  cup-holder",4
+ring aryballos,4
+mirror-case,4
+sling-shot,4
+"textile ,  loin-cloth",4
+toilet-box,4
+jewellery-mould,4
+lamp-mould,4
+"lamp ,  handle ,  lamp-ornament",4
+"jug ,  filter",4
+"figure ,  toy",4
+"necklace ,  amulet",4
+jar-cover,4
+stud,4
+sash,4
+horse-trappings,4
+armour,4
 bird mummy,4
-burqa,3
-vase-stand,3
-whistle,3
-cymbal,3
-hatchet,3
-papyrus boat,3
-chapel,3
-paint-brush,3
-cover-plate,3
+cosmetic-spatula,4
+"canopic jar ,  mummy-packing",4
+"cosmetic-vessel ,  lid",4
+"textile ,  garment ,  tunic ,  ribbon",4
+folding stool,4
+"alabastron ,  flask",4
+"disc ,  weight",4
+"sealing ,  seal-impression",3
+torc,3
+"pyxis ,  lid",3
 lance,3
-cantharos,3
-stone-chisel,3
-wrist-guard,3
-bridle-bit,3
-grindstone,3
-herm,3
-smoother,3
-cosmetic-applicator,3
-unspecified tool,3
-jellabia,3
-measuring-vessel,3
-foot cover,3
-tinder,3
-drinking-cup,3
-shabti mould,3
-unspecified accessory,3
-offering bearer,3
-drinking-bowl,3
-mattock,3
-element of human mummy,3
-camel-saddle,3
-ink cake,3
-crown,3
+"print ,  invitation",3
+drill,3
+"belt ,  girdle",3
+"wall panel ,  relief",3
+chain,3
+"bowl ,  ostracon",3
+astrolabe,3
+poster,3
+finial,3
+albarello,3
+"scaraboid  ,  disc",3
+staple,3
+music sheet/cover,3
+whistle,3
+"tablet ,  seal-impression",3
+"figure ,  theatre mask",3
+drill-bit,3
+veil,3
 candelabrum,3
-game-counter,3
-butcher's shop,3
-casket,3
+unspecified tool,3
+foot cover,3
+offering bearer,3
+ink cake,3
+jellabia,3
+element of human mummy,3
+unspecified accessory,3
+shabti mould,3
+"ear-ring ,  spacer-bead ,  bead",3
+"bead ,  sample",3
+"binding ,  cord",3
+binding,3
+"textile ,  cord ,  burial-tape",3
+"textile ,  doll ,  shirt",3
+"textile ,  garment  ,  fringe",3
+"ostracon  ,  amphora",3
+"ostracon  ,  jar",3
+"ostracon ,  storage-vessel",3
+cosmetic-applicator,3
+crown,3
+gnomon,3
+"offering-table ,  model",3
+parchment,3
+"coin ,  forgery",3
+measuring rope,3
+marine shell,3
+mammal horn,3
+currency-bar,3
+socks,3
+wall,3
+organic remains,3
+canopic shrine,3
+cantharos,3
+cramp,3
+chapel,3
+papyrus boat,3
 necklace terminal,3
-menat,3
 garland,3
 food offering,3
 ink pot,3
 box lid,3
-oil-bottle,3
-fruit-basket,3
-pot-stand,3
-parchment,3
-drill-bit,3
-gnomon,3
-fossil,3
-handaxe,3
-shabti-mould,3
-kiln-support,3
-cramp,3
-cup-kantharos,3
-albarello,3
-wall panel,3
-astrolabe,3
-compass,3
-finial,3
-organic remains,3
-measuring rope,3
-marine shell,3
-wedge,3
-fishing-line-weight,3
-torc,3
-watch,3
-drill,3
-tent-hanging,3
-poster,3
-socks,3
-cosmetic-flask,3
-coat,3
-mammal horn,3
-container,3
-music sheet/cover,3
-bread-stamp,3
-staple,3
-potter's tool/implement,3
-acroterion,3
-canopic shrine,3
-icon,3
+butcher's shop,3
+"coffin ,  figure",3
+smoother,3
+"amphora  ,  oinochoe",3
+"cowroid ,  forgery",3
+drinking-cup,3
+"shabti ,  amulet ,  amulet-frame",3
+"toy ,  mirror",3
+"model ,  adze ,  foundation-deposit",3
+menat,3
+bridle-bit,3
+hatchet,3
+"textile ,  cord",3
+"jewellery-fitting ,  clasp",3
+cymbal,3
+"figure ,  mummy-case",3
+"shabti-coffin ,  shabti ,  textile",3
+stone-chisel,3
+cover-plate,3
+"model ,  axe ,  blade",3
+grindstone,3
 libation-bowl,3
-currency-bar,3
+"stela ,  cast",3
+"sarcophagus ,  bath-tub  ,  religious/ritual vessel",3
+"ostracon ,  trial-piece",3
+"model ,  chisel ,  foundation-deposit",3
+"artefact ,  base",3
+"plaque ,  scaraboid",3
+boss,3
+"wine-jar  ,  ostracon",3
+"human skeletal remains ,  coffin",3
+wrist-guard,3
+patera,3
+"finger-ring ,  plaque",3
+"shabti-box ,  shabti",3
+handaxe,3
+fossil,3
+"print ,  illustrated book",3
+"scaraboid ,  seal",3
+pot-stand,3
+"necklace  ,  bead ,  pendant ,  amulet",3
+"mummy-mask  ,  cartonnage",3
+"jar ,  model",3
+"bead ,  amulet ,  necklace",3
+"foundation-deposit ,  brick",3
+drinking-bowl,3
+"cartonnage ,  mummy-case",3
+"print ,  book",3
+vase-stand,3
+fly-whisk,3
+"oil-bottle ,  figure vessel",3
+ink-pot,3
+"model ,  water-hoist ,  irrigation equipment",3
+kiln-support,3
+"flask ,  figure",3
+casket,3
+"textile ,  rug",3
+cosmetic-flask,3
+"disc ,  box",3
+"disc ,  pyxis",3
+"print ,  playing-card",3
+"bowl ,  rosette bowl",3
+camel-saddle,3
+"rod ,  cooking-implement",3
+"vessel ,  aryballos ,  figure",3
+tripod pyxis,3
+book-cover,3
+tinder,3
+"lamp ,  forgery",3
+cup-kantharos,3
+"print ,  broadside",3
+"print ,  admission-ticket",3
+"lid ,  pyxis",3
+handkerchief,3
+acroterion,3
+"bowl ,  plate",3
+"vessel-fitting ,  lekane",3
+"cup ,  bowl",3
+bread-stamp,3
+sundial,3
+coat,3
 bellows,3
-envelope,3
-branding-iron,2
+"game-board ,  game-box",3
+measuring-vessel,3
+"jar ,  vegetal remains",3
+"necklace ,  cross pendant",3
+tent-hanging,3
+"album ,  drawing",3
+icon,3
+"model ,  jar",3
+"sealing ,  seal-impression ,  cloth",3
+"drawing ,  print study ,  plan",3
+"seal-impression ,  sealing",3
+"disc ,  jewellery-fitting",3
+"boss ,  jewellery",3
+"rasp ,  scraper",3
+container,3
+"lamp ,  replica",3
+"lid ,  vessel",3
+"bowl ,  figure",3
+"bottle ,  unguent-bottle",3
+cosmetic-container,3
+boat-fitting,3
+"canopic chest ,  canopic jar",2
+dish-lamp,2
+"vessel ,  coffee-filter",2
+"ear-ring  ,  amulet ,  inlay",2
+bow drill,2
+lute,2
+"pendant ,  ear-ring",2
+"spacer-bead ,  amulet",2
+"model ,  vase ,  vase-stand",2
+"altar ,  incense-burner",2
+"model ,  foundation-deposit ,  corn-grinder",2
+"spacer-bead  ,  ornament",2
+"altar ,  model",2
+"votive box  ,  figure",2
+"jar ,  measuring-vessel",2
+religious/ritual equipment,2
+paint-brush,2
+"print ,  music sheet/cover",2
+"ear-ring ,  sealstone",2
+"plaque ,  brick ,  foundation-deposit",2
+"askos ,  figure",2
+"purse ,  bag ,  pouch",2
+"collar ,  bead ,  pendant",2
+"sealstone  ,  intaglio",2
+"model group ,  boat",2
+"model group  ,  figure",2
+"coffin ,  human mummy ,  cartonnage ,  mummy-mask ,  mummy-wrapping ,  head-rest",2
+"toy ,  game-ball",2
+"model group ,  vase",2
+"temple-relief ,  graffito",2
+pyramid-casing,2
+"model ,  mace",2
+"necklace  ,  amulet",2
+"cup ,  foundation-deposit",2
+shabti-mould,2
+plough,2
+"artefact ,  cosmetic-palette",2
+"amphoriskos ,  flask",2
+"canopic jar ,  human remains",2
+marble,2
+"figure ,  papyrus",2
+"bowl ,  model",2
+shabti-jar,2
+"shabti ,  textile",2
+shabti-coffin,2
+"coffin ,  model",2
+"cosmetic-bag ,  model",2
+"vase ,  stirrup jar",2
+strigil,2
+"jewellery-fitting  ,  knob",2
+"knife ,  model",2
+steelyard-weight,2
+door-hinge,2
+coffee-strainer,2
+distaff,2
+"canopic jar ,  vegetal remains",2
+measuring-rod,2
+"axe ,  replica",2
+rag doll,2
+herm,2
+"jar ,  cup",2
+"dish  ,  animal remains",2
+"lamp ,  votive offering",2
+"bead ,  pendant ,  necklace",2
+"weight  ,  grinder",2
+offering-tank,2
+"breast-ornament ,  mummy-wrapping",2
+jacket,2
+incision-plate,2
+spacer-bar,2
+milk-bowl,2
+"bowl ,  brazier",2
+"amphora ,  ostracon",2
+"badge ,  lance",2
+"textile ,  garment ,  furnishing",2
+"jewellery-fitting ,  chain",2
+"jewellery-fitting ,  ear-ring",2
+"bead ,  name-bead",2
+"vessel ,  pot",2
+"figure ,  votive offering",2
+vessel-fitting,2
+"necklace  ,  amulet ,  bead",2
+"krater ,  amphora",2
+"magical gem ,  amulet",2
+"seal ,  intaglio",2
+letter,2
+"plaque ,  altar-piece",2
+"panel ,  relief",2
+"burqa ,  veil ,  coin",2
+"cast ,  stela",2
+bottle-sealing,2
+"amulet ,  figure ,  stamp-seal",2
+clasp,2
+"knife ,  animal equipment",2
+"scribal palette ,  pigment sample ,  reed pen",2
+"vessel ,  vase",2
+"heart-amulet ,  pendant",2
+"spindle ,  thread",2
+tambourine,2
+"mortarium ,  bowl",2
+"model ,  sceptre",2
+spur,2
+"hook ,  fish-hook",2
+beam,2
+"model ,  shield",2
+"axe ,  ornament",2
+"trial-piece ,  graffito",2
+couch,2
+"canopic coffin ,  human mummy ,  mummy-wrapping",2
+wig,2
+counterpoise-menat,2
+plug,2
+crotal,2
+"model ,  boat",2
+rainwater-spout,2
+vessel-cover,2
+vessel-mould,2
+cosmetic-knife,2
+rattle,2
+"cosmetic-palette ,  cast",2
+vessel-stand,2
+"figure  ,  model group",2
+guttus,2
+"human mummy ,  mummy-case ,  cartonnage ,  burial-cloth ,  mummy-wrapping",2
+"game-board ,  platter",2
+"transport amphora ,  jar-sealing",2
+"animal mummy ,  mummy-wrapping ,  mummy-case",2
+"mummy-case ,  animal remains",2
+"pendant-mould ,  scaraboid-mould",2
+cosmetic-jug,2
+"bead ,  camel-trappings",2
+"statue ,  base",2
+pounder,2
+"model ,  religious/ritual equipment ,  vessel ,  tool/implement",2
+funerary wreath,2
 balance,2
-unspecified trappings,2
-window,2
-chape,2
-unspecified toy,2
+bread-mould,2
 cooking-vessel,2
+window,2
+"pounder ,  potter's tool/implement",2
+nikosthenic pyxis,2
+"bowl ,  culinary equipment",2
+mammal mummy,2
+"coin ,  brockage",2
+"nikosthenic pyxis ,  lid",2
+canopic box panel,2
+"dish ,  vegetal remains",2
+leg cover,2
+armchair,2
+kherep-sceptre,2
+divine standard,2
+oven,2
+rowing boat,2
+senet-game,2
+badge,2
+unspecified trappings,2
+potter's tool/implement,2
+head kantharos,2
+"jar ,  lid",2
+"model ,  shield ,  figure",2
+ploughing,2
+"model ,  figure ,  trial-piece",2
+"sundial ,  model",2
+bird-net,2
+"model ,  threshing-board ,  figure",2
+miscellaneous equipment,2
+maul,2
+casing stone,2
+food case,2
+opening of the mouth instrument,2
+sack,2
+counterpoise of menat,2
+peseshkaf,2
+kohl-container,2
+tomb,2
+incense burner,2
+serpent mummy,2
+garment,2
+fruit,2
+unspecified toy,2
 weights of a loom,2
+ear plug,2
+"figurine ,  pendant",2
+finger stall,2
+epitaph plaque,2
+"coin ,  trial-piece",2
+"cameo ,  vessel",2
+perfume-vase,2
+"print ,  uki-e",2
+basketry,2
+"stela ,  funerary equipment",2
+"altar ,  votive offering",2
+gargoyle,2
+unspecified domestic equipment and utensil,2
+mehen,2
+fish mummy,2
+temple,2
+tool,2
+kohl,2
+trumpet,2
+lighting equipment and implements,2
+chariot,2
+carpenter's shop,2
+weaving and spinning workshop,2
+level,2
+wesekh-collar,2
+lagena,2
+unspecified spinning and weaving implement,2
+dowel,2
+wedge,2
+carpenters & sculptors tools,2
+urn,2
+"javelin ,  spear",2
+"necklace ,  prayer-bead",2
+"wine-vessel  ,  ostracon",2
+"figure ,  stopper",2
+"figure  ,  pendant",2
 plane,2
 incense-tongs,2
-terminal,2
-bird-net,2
-funerary wreath,2
-leglet,2
-decorated shell,2
+"necklace ,  bead ,  pendant",2
+"tool/implement ,  perforator",2
 bradawl,2
 hieroglyph-mould,2
 head-dress-ornament,2
+game-counter,2
 perfume-jar,2
-fruit,2
-scoop,2
-drawing-board,2
-clasp,2
-talisman,2
-lagena,2
-pyramid-casing,2
-unspecified domestic equipment and utensil,2
-plough,2
-bread-mould,2
-javelin,2
-scissors-case,2
-sieve,2
-head-rope,2
-mammal mummy,2
-pavement,2
-incision-plate,2
-drinking-tube,2
-diptych,2
-pigment-container,2
-gargoyle,2
-garment,2
-fork,2
-peseshkaf,2
+ear-plug,2
+"model ,  bell",2
+"ceremonial staff ,  terminal",2
 paddle doll,2
-ceremonial staff,2
-bag,2
-codex,2
+"spacer-bar ,  bracelet",2
+"vessel  ,  figure",2
+"model ,  coffin",2
 tobacco-box,2
-strap,2
-scroll,2
-molar flask,2
-hammerstone,2
-oven,2
-guttus,2
-scissors,2
-spur,2
-concave pyxis,2
-finger stall,2
-tambourine,2
-salver,2
-miscellaneous equipment,2
-forehead-ornament,2
-reliquary-cross,2
-lute,2
-ploughing,2
-zither,2
-ear plug,2
-pen-box,2
-phial,2
-viol,2
-beer-mug,2
-basketry,2
-counterpoise of menat,2
-camel-whip,2
-kohl-container,2
-opening of the mouth instrument,2
-chamber-pot,2
-food case,2
-triptych,2
-niche,2
-epitaph plaque,2
-psykter,2
-ossuary,2
-bottle-sealing,2
-casing stone,2
-personal ornament,2
-pendant-mould,2
-maul,2
-skull-cap,2
-carpet,2
-fish mummy,2
-serpent mummy,2
-hadra hydria,2
-counterpoise-menat,2
-cosmetic-knife,2
-kalathos,2
-chariot,2
-bridle,2
-couch,2
-canopic coffin,2
-wig,2
-cinerary urn,2
-cover,2
-shamma,2
-milk-bowl,2
-crotal,2
-rainwater-spout,2
-spool,2
-head kantharos,2
-unspecified spinning and weaving implement,2
-toilet/cosmetic equipment,2
-carpenter's shop,2
-temple,2
-lighting equipment and implements,2
-beam,2
-vessel-stand,2
-fibula,2
-decorated egg,2
-cosmetic-jug,2
-tomb,2
-incense burner,2
-urn,2
-vessel-mould,2
-strigil,2
-loin-cloth,2
-weaving and spinning workshop,2
-rag doll,2
-vessel-cover,2
-carpenters & sculptors tools,2
-level,2
-wesekh-collar,2
-model-fitting,2
-senet-game,2
-rowing boat,2
-jacket,2
-marble,2
-letter,2
-mehen,2
-kherep-sceptre,2
-divine standard,2
-dowel,2
-shuttle,2
+"funerary equipment ,  food product",2
+fruit-basket,2
 eye-bath,2
-lyre,2
-steelyard-weight,2
-plug,2
-distaff,2
-door-hinge,2
-measuring-rod,2
-seat,2
-shovel,2
-leg cover,2
+"lamp ,  game-piece",2
+"sceptre ,  amulet",2
+"vase  ,  terminal",2
+"tomb-relief ,  door-jamb",2
+"model ,  oar",2
+"scribal palette ,  paint-brush",2
+"cast ,  obelisk",2
+pigment-container,2
+drawing-board,2
+"tomb-painting ,  ceiling",2
+"bust ,  trial-piece",2
+branding-iron,2
+"viol ,  fiddle",2
+"textile ,  mummy-wrapping  ,  cloth",2
+fork,2
+"weight ,  plumb-bob",2
+purse,2
+"ear-ring ,  hair-ring ,  bead",2
+"vessel ,  amphora",2
+"charm ,  necklace",2
+broom,2
+"bottle ,  sample",2
+"rod ,  kohl-stick",2
+scissors-case,2
+"pen-case ,  ink-bottle",2
+antefix,2
+personal ornament,2
+skull-cap,2
+"bowl  ,  offering-bowl",2
+scissors,2
+"figure ,  bracelet",2
+"bead ,  spacer-bead",2
+hammerstone,2
+"textile ,  garment ,  tunic ,  mummy-wrapping",2
+"pounder ,  hammerstone",2
+"ear-plug ,  bead",2
+"coffin ,  mummy-wrapping ,  human mummy",2
+"animal mummy ,  mummy-wrapping ,  cartonnage",2
+"lamp-stand ,  candelabrum",2
+"carpet ,  textile",2
+"textile ,  cushion-cover",2
+"hat ,  textile",2
+rasp,2
+"plate ,  bowl",2
+"coffin ,  cartonnage",2
+codex,2
+"broom ,  brush",2
+strap,2
+"mattock ,  hoe ,  adze",2
+"flake ,  blade",2
+"weight ,  grinder",2
 dipper,2
 sling,2
-canopic box panel,2
-bodkin,2
-sack,2
-poker,2
-perfume-vase,2
-offering-tank,2
-armchair,2
-spade,2
-bow drill,2
-tool,2
+"talisman ,  plaque",2
+"architecture ,  plaque",2
+psykter,2
+"drawing ,  album ,  print study",2
+"scaraboid ,  game-piece",2
+decorated shell,2
+kalathos,2
+"inlay  ,  artefact",2
+"pendant ,  medallion",2
+"print ,  forgery",2
+"figure ,  vessel ,  alabastron",2
+"knife ,  mirror",2
+shamma,2
+"vessel ,  krater",2
+"lekanis  ,  lid",2
+"ring ,  boat-fitting",2
+"finger-ring ,  seal",2
+"sealing ,  seal-impression ,  stopper",2
+"bead ,  eye-bead",2
+"bowl  ,  figure",2
+"scaraboid ,  button seal",2
+"stela ,  relief",2
+pen-box,2
+"envelope ,  postage-stamp",2
+salver,2
+chamber-pot,2
+seat,2
+"print ,  satirical print ,  broadside",2
 cloak,2
-trumpet,2
-bolt,2
-kohl,2
-potter's stamp,2
-dish-lamp,2
-pithos,2
-shabti-jar,2
-coffee-strainer,2
-cosmetic-bag,2
+beer-mug,2
+"textile ,  bed-cover",2
+molar flask,2
+"sistrum ,  model ,  votive offering",2
+"plaque  ,  pendant",2
+"finger-ring ,  intaglio",2
+"figure ,  model",2
+"stamp-seal ,  pendant",2
+"oinochoe ,  flagon",2
+bodkin,2
+"jar ,  forgery",2
+"print ,  book ,  book-illustration",2
+"eye-bowl ,  eye-cup",2
+"figure ,  sculpture",2
+"print ,  book ,  book-illustration ,  newspaper/periodical",2
 borer,2
-sabre,1
-canopic coffinette,1
-sun-shade,1
-ritual objects/ scul,1
-counting cattle,1
-netting-needle,1
-presentation pack,1
-cistern,1
-carrying-basket,1
-replica,1
-fishing boat,1
-folding bed,1
-toys or jewelry,1
-milk scene,1
-torus moulding,1
-card,1
-was-sceptre,1
-bow-case,1
-coffee-set,1
-teapot,1
-forgery,1
-gloves,1
-torch,1
-arm,1
-openwork,1
-cheque,1
-charm-necklace,1
-human skeleton,1
-measuring of volume,1
-theatre token,1
-headrest cushion,1
-crew,1
-human cranium,1
-ram mummy,1
-gaming board,1
-millstone,1
-fez,1
-cattle breeding,1
-ostrich egg,1
-musical horn,1
-agricultural equipment,1
-dog mummy,1
-thread,1
-unspecified food offering,1
-cushion-cover,1
-stereoscope photograph,1
-shabti box panel,1
-sewing equipment,1
-plumb-line with support,1
-prochoos,1
-unspecified mammal mummy,1
-garden,1
-dancing dwarfs,1
-robe,1
-pouch,1
-balustrade,1
-hull,1
-stirrer,1
-building equipment,1
-ostrich egg-shell,1
-unspecified human remains,1
-burial chamber,1
-plummet,1
-unspecified agricultural equipment,1
-solar boat,1
-casket-fitting,1
-osiris bed,1
-throne,1
-double crown,1
-shabti basket,1
-unspecified organic remains,1
-tool mould,1
-top,1
-fighting-stick,1
-food-basket,1
-fountain-jet,1
-monument,1
-horse-collar,1
-king-list,1
-cosmetic-bottle,1
-saddle-cloth,1
-saddle,1
-charcoal-burner,1
-divination-bowl,1
-visor,1
-key-finger-ring,1
-sheet,1
-sinker,1
-die,1
-flag,1
-cooking-stand,1
-eye-bead,1
-money-box,1
-offering-tray,1
-kothon,1
-wheel,1
-military diploma,1
-clamp,1
-helmet,1
-knife-sharpener,1
-door-socket,1
-scrubbing-brush,1
-cage,1
-arrow-case,1
-bident,1
-trident,1
-frying-pan,1
-link,1
-pumice-stone,1
-marker,1
-razor-case,1
-book-label,1
-clog,1
-pike,1
-blinker,1
-pediment,1
-ear-ornament,1
-bird-trap,1
-oboe,1
-kohl-box,1
-water-bottle-stand,1
-grain-basket,1
-bouquet,1
-slit-drum,1
-cushion,1
-arm-dagger,1
-gateway,1
-gunpowder-flask,1
-gouge,1
-cooking-bowl,1
-perfume-bottle,1
-breast-chain,1
-christmas-card,1
-animal equipment,1
-niello print,1
-printing-plate,1
-tent-cloth,1
-board,1
-pilgrim badge,1
-great bascinet,1
-probe,1
-parure,1
-disc pendant,1
-plaquette,1
-door-sill,1
-torah shield,1
-token-mould,1
-medallion-mould,1
-cart,1
-spatha,1
-gunpowder-horn,1
-threshing-fork,1
-offset,1
-architectural drawing,1
-bird-lure,1
-balsamarium,1
-shelf,1
-frame,1
-kyathos,1
-magic bowl,1
-ribbon,1
-postage-stamp,1
-clarinet,1
-scarf,1
-waistcoat,1
-gown,1
-spout,1
-oil painting,1
-hand-warmer,1
-bath-scoop,1
-kursi,1
-dropper,1
-figure-head,1
-water-pipe,1
-lunch-box,1
-donkey-trappings,1
-pot-carrier,1
-saddle-bag,1
-posset-cup,1
-harness-fitting,1
-glass sherd,1
-qumqum,1
-belt-buckle,1
-incantation bowl,1
-horse bridle-bit,1
-tent-peg,1
-table,1
-book,1
-plait,1
-fire-steel,1
-permit,1
-mummy-cloth,1
+"plaque ,  relief",2
+"print ,  blockbook",2
+bolt,2
+"bell krater  ,  calyx-krater",2
+"print ,  book-illustration ,  map",2
+"print ,  advertisement",2
+"scaraboid ,  plaque",2
+"toy ,  figure",2
+potter's stamp,2
+"phial ,  bottle",2
+poker,2
+"print ,  album",2
+"lid  ,  lekanis",2
+fishing-line-weight,2
+"figure ,  seal  ,  amulet",2
+"libation-vase  ,  foundation-deposit",2
+eye-bowl,2
+"painting ,  charm",2
+bridle,2
+"staff ,  model ,  votive offering",2
+chape,2
+"figure ,  pendant",2
+"cup ,  kotyle",2
+head-rope,2
+"relief ,  plaque ,  figure",2
+"pendant ,  tool/implement",2
+"mortar ,  foundation-deposit ,  model",2
+"doll  ,  figurine",2
+"compass ,  sundial ,  qibla indicator",2
+"cylinder seal ,  forgery",2
+"bowl ,  waster",2
+"relief ,  plaque",2
+"stand ,  perirrhanterion",2
+"model ,  foundation-deposit",2
+"drawing ,  collage",2
+"seal-ring ,  intaglio",1
+"spindle ,  yarn",1
+"textile ,  bag ,  knife  ,  sample",1
+"funerary equipment  ,  textile",1
+"textile ,  mantle ,  cloak ,  garment",1
+"textile ,  ribbon",1
+"textile ,  garment ,  mantle ,  cloak",1
+"belt ,  textile",1
+"dress ,  coin",1
+"textile ,  tunic ,  garment",1
 girth,1
-wallet,1
-curtain,1
-playing-card,1
+"spindle ,  spindle-whorl ,  yarn",1
+"nail ,  artefact",1
+"textile ,  kilt",1
 plank,1
-boot,1
+"textile ,  bead",1
+"clarinet ,  musical pipe",1
+"petticoat ,  skirt",1
+gown,1
+"chalice  ,  heavy chalice",1
+"figure ,  pin",1
+"loom ,  string",1
+"boss ,  jewellery-fitting ,  jewellery",1
+book,1
 frieze-brick,1
-loom,1
-unguent-bottle,1
-water-flask,1
-cosmetic-pestle,1
-cosmetic-mortar,1
-boning-rod,1
-necklet,1
-stave,1
-polycandelon,1
-falchion,1
-paint-grinder,1
-offering-bowl,1
-thumb-ring,1
-qadus,1
+boot,1
+"textile ,  religious/ritual equipment  ,  tapestry",1
+arm-dagger,1
+"textile ,  cushion-cover  ,  tapestry",1
+"buckle ,  strap",1
+wallet,1
+"textile ,  religious/ritual equipment  ,  handkerchief",1
+"spindle ,  spindle-whorl ,  thread",1
+"animal remains ,  decorated egg",1
+playing-card,1
+"textile ,  cord ,  hair-net",1
+"trousers ,  textile",1
+"cap ,  cover",1
+"textile ,  garment ,  cloak ,  tapestry",1
+"textile ,  shroud ,  garment ,  tapestry",1
+"hat ,  textile ,  tapestry",1
+"triptych ,  religious/ritual equipment ,  figure ,  forgery",1
+great bascinet,1
+"cup ,  mug",1
+"textile ,  tapestry ,  mantle",1
+"curtain  ,  textile",1
+"hypocephalus ,  cartonnage",1
+"vessel ,  aquamanile ,  figure",1
+"tray ,  lid",1
+camel-whip,1
+"bobbin ,  ear-plug",1
+"spacer-bead ,  weight",1
+"artefact ,  stamp",1
+"tool/implement ,  lid",1
+"bobbin ,  weight",1
+"funerary equipment ,  box",1
+"textile ,  mat",1
+"box ,  shabti ,  vegetal remains",1
+"box ,  vegetal remains",1
+"ostracon ,  votive offering",1
+"textile ,  yarn",1
+"qadus ,  toy",1
+cover,1
 bladelet,1
-toilet-set,1
-ceiling,1
-writing-case,1
-figure vessel,1
-acorn lekythos,1
-petticoat,1
-call,1
-food-cover,1
-quiver,1
-calyx-cup,1
-tripod stand,1
-walking-stick,1
-water pot,1
-grave-marker,1
-grinding-stone,1
-whisk,1
-corn osiris coffin,1
-cup-holder,1
-drinking-vessel,1
-stirrup,1
-cord,1
-rein,1
-face-mask,1
-animal/vegetal remains,1
-radio,1
+"leglet ,  leg-ornament",1
+"vessel ,  plate",1
+"cup ,  cup-skyphos",1
+"tool/implement ,  gaming-piece ,  weight",1
+"gaming-piece ,  weight ,  tool/implement",1
+"polisher ,  grinder",1
+"artefact ,  statue",1
+"grinding-stone ,  weight",1
+"tool/implement ,  grinder ,  hammerstone",1
+"artefact ,  shabti",1
+"ear-ring ,  coffin",1
+"artefact ,  bead",1
+"artefact ,  ring",1
+"ear-ring ,  pendant ,  sample ,  bead ,  artefact",1
 point,1
+"inlay ,  fitting",1
+"textile ,  wrapping ,  loin-cloth ,  shroud",1
+"plait ,  binding",1
+"textile ,  wrapping ,  patch",1
+"jug ,  vessel",1
+pilgrim badge,1
+storage-vessel,1
+"textile ,  funerary equipment",1
+mummy-cloth,1
+"textile ,  shroud",1
+"offering-table ,  figure",1
+permit,1
+"figure ,  furniture",1
+"human mummy ,  textile",1
+"vessel ,  amulet",1
+"model ,  foundation-deposit ,  brick",1
+"amulet ,  scarab",1
+"plaque ,  mirror",1
+"textile ,  mummy-packing",1
+"papyrus ,  roll ,  forgery",1
+"textile ,  mantle",1
+"textile ,  papyrus",1
+"papyrus ,  fake",1
+"stela ,  plaque",1
+scroll,1
+"board ,  ink sample",1
+"pectoral ,  heart-scarab",1
+"oil-lamp ,  lamp-ornament",1
+"bead ,  spindle-whorl",1
+"binding ,  cord ,  string",1
+string,1
+"string ,  cord",1
+"medallion ,  model ,  figure",1
+"string ,  binding ,  cord",1
+"textile ,  wrapping ,  trousers",1
+"coffin ,  animal remains ,  cartonnage",1
+necklet,1
+water-flask,1
+"jewellery ,  girdle",1
+forehead-ornament,1
+"cosmetic-container ,  cosmetic sample",1
+"model ,  tool/implement",1
+"model ,  chisel",1
 crochet-needle,1
 needle-case,1
+"knife ,  sickle",1
 cosmetic-tool/implement,1
-rake,1
-tool-rest,1
-fitting-mould,1
-dish-cover,1
-standard,1
-religious/ritual vessel,1
-wig-pin,1
-plumb-bob,1
-pleating-tool/implement,1
-cosmetic-palette-cover,1
-cosmetic-pot,1
-wand,1
-mummy footcase,1
+cooking-bowl,1
+"knife ,  tool/implement",1
+"bowl ,  sample",1
+"figure ,  inlay",1
+"figure ,  funerary equipment",1
+"altar  ,  model",1
+"stela ,  tomb-relief ,  door-jamb",1
+"mace ,  model",1
+"anklet  ,  bead",1
+"inlay ,  relief",1
+"mummy-portrait ,  cartonnage",1
+"oil-lamp ,  figure",1
+"offering-bowl ,  model ,  foundation-deposit",1
+"thumb-ring ,  archer's loose",1
+"vessel-stamp  ,  mould",1
+"kernos  ,  figure",1
+"anklet ,  bead ,  pendant ,  amulet",1
+"ostracon ,  meat-jar",1
+food-cover,1
+"pot ,  coffee-pot",1
+"fitting ,  naos",1
+"boat-fitting ,  religious/ritual equipment",1
+"model ,  sistrum",1
+"wine-jar ,  handle",1
+"bracelet ,  bead ,  spacer-bar",1
+"pin ,  scarf-pin",1
+"figure ,  shrine",1
+"model ,  toy  ,  axe",1
+"model ,  saw ,  foundation-deposit",1
+"model ,  axe ,  foundation-deposit ,  textile ,  adhesive sample",1
+"figure ,  plaque  ,  model group",1
+"cosmetic-box ,  cosmetic sample",1
+chest,1
+"breast-ornament ,  mummy-wrapping ,  scarab",1
+"statue ,  sculpture",1
+"ostracon ,  pilgrim flask",1
+"alabastron  ,  figure",1
+"axe ,  cord ,  handle",1
+"vase ,  vessel",1
+"knife-sharpener ,  pendant",1
+"bowl ,  pyx",1
+"necklace  ,  bead ,  spacer-bar",1
+"stopper ,  seal",1
+"scoop ,  spoon",1
+"reliquary-cross ,  relic  ,  cloth",1
+"ear-plug ,  ear-stud",1
+"bottle ,  reliquary",1
+"meat-jar ,  ostracon",1
+reliquary-cross,1
 fire-stick,1
-libation-vessel,1
-cotton-gin,1
-wine-strainer,1
-sacrificial knife,1
-mortar-spreader,1
-scimitar,1
-oil-jar,1
-game-stick,1
-net,1
-wig-box,1
-amulet-case,1
-door-plate,1
-double jar,1
-ear-ring-mould,1
-cosmetic-bowl,1
 oil-flask,1
 tool-basket,1
+"amulet ,  pendant ,  figure",1
+"bottle ,  vessel",1
+"tomb-relief ,  lintel",1
+"knife ,  retouched blade",1
+"cosmetic-spoon ,  cosmetic-box",1
 rubber,1
-meat-jar,1
-chest,1
-beer-vessel,1
+"needle ,  case",1
+"spindle-whorl ,  vessel",1
+"forehead-ornament ,  coin",1
+"arrow-head  ,  tool/implement",1
+calyx-cup,1
+paint-grinder,1
+"inlay ,  ring",1
+"niche ,  architectural fitting",1
+"human mummy ,  mummy-wrapping ,  finger-stall",1
+"human mummy ,  bracelet ,  mummy-wrapping",1
+stave,1
+"collar ,  amulet",1
+"human mummy ,  burial-cloth ,  coffin",1
+"human mummy ,  burial-cloth ,  mummy-wrapping ,  amulet-frame ,  amulet",1
+"human mummy ,  mummy-wrapping ,  mummy-portrait",1
+"human mummy ,  mummy-wrapping ,  shroud",1
+"textile ,  carpet",1
+"human mummy ,  mummy-wrapping ,  shroud ,  comb ,  funerary wreath",1
+"furniture-fitting ,  chair",1
+"panel ,  naos",1
+"human mummy ,  bandage ,  cartonnage ,  bead-net ,  scarab",1
+"human mummy ,  collar ,  pectoral ,  mummy-wrapping",1
+"furniture-fitting ,  plaque",1
+"mummy-wrapping ,  human mummy ,  bead-net",1
+"human mummy ,  mummy-wrapping ,  mummy-packing",1
+"scarab ,  seal",1
+"bracelet  ,  bead",1
+"collar ,  terminal",1
+"wall ,  tomb-painting",1
+"animal remains ,  dish",1
+"stela  ,  votive offering",1
+"model ,  naos ,  stela",1
+"textile ,  burial-cloth",1
+"ring ,  weight",1
+papyrus-sealing,1
+cosmetic-pestle,1
+cosmetic-mortar,1
+"stela ,  architrave",1
+"inlay ,  plaque",1
+"human mummy ,  mummy-wrapping ,  inlay",1
+boning-rod,1
+"harpoon ,  model",1
+"knob ,  bobbin",1
+"human remains ,  display-case ,  human mummy",1
+"stela ,  amulet",1
+"human mummy ,  mummy-mask ,  mummy-cover ,  mummy-wrapping ,  cartonnage ,  amulet",1
+"human mummy ,  mummy-case ,  cartonnage ,  mummy-mask ,  anklet",1
+"oil-lamp ,  thymiaterion",1
+gouge,1
+"textile ,  garment ,  tunic  ,  cloth",1
+"mummy-wrapping ,  sealing",1
+"beaker ,  medallion ,  forgery",1
+"call ,  whistle",1
+"textile ,  garment ,  tunic  ,  mummy-wrapping",1
+"plaque ,  shabti",1
+"pot ,  teapot",1
+"figure ,  amulet ,  base",1
+"figure ,  amulet ,  plaque",1
+"finger-ring ,  amulet",1
+"doll ,  figure",1
+"seal ,  forgery",1
+acorn lekythos,1
+"battle-axe ,  forgery",1
+"necklace  ,  bead ,  amulet ,  forgery",1
+"amulet ,  pectoral ,  scarab",1
+"coffin  ,  mummy-case ,  cartonnage ,  mummy-wrapping ,  human mummy ,  scarab",1
+"human mummy ,  mummy-wrapping ,  bead-net ,  amulet ,  figure",1
+"kohl-pot ,  cosmetic sample",1
+"human mummy ,  mummy-mask ,  cartonnage ,  pectoral ,  shabti ,  mummy-wrapping ,  finger-ring ,  bracelet ,  coffin",1
+"figure ,  pounder",1
+"coffin ,  mummy-case ,  cartonnage ,  human mummy ,  pectoral ,  scarab",1
+"vase ,  sherbet-cup",1
+"cosmetic-spoon ,  handle",1
+falchion,1
+"beaker ,  vessel",1
+polycandelon,1
+figure vessel,1
+"animal mummy ,  mummy-case",1
+"bead ,  scarab ,  spacer-bead ,  bracelet",1
+"textile ,  sack",1
+"knob ,  stud",1
+"finger-ring ,  bead",1
+"seal ,  mould",1
+incantation bowl,1
+glass sherd,1
+"scaraboid ,  forgery",1
+sabre,1
+carrying-basket,1
+"print ,  costume print ,  book-illustration",1
+"teapot ,  lid",1
+card,1
+"tablet case ,  seal-impression",1
+"print ,  costume print",1
+food-basket,1
+"cover ,  lid",1
+"oil-lamp ,  model ,  religious/ritual equipment",1
+"whetstone ,  case",1
+shabti basket,1
+"cup ,  cup-case",1
+"medal ,  restrike",1
+"bangle ,  bracelet",1
+torch,1
+bow-case,1
+"drawing ,  offset",1
+counting cattle,1
+fishing boat,1
+belt-buckle,1
+qumqum,1
+"stand  ,  incense-burner",1
+folding bed,1
+torus moulding,1
+canopic coffinette,1
+top,1
+sun-shade,1
+charm-necklace,1
+gloves,1
+"tray ,  forgery",1
+"ossuary ,  human skeletal remains",1
+"spatula ,  cooking-implement",1
+tripod stand,1
+agricultural equipment,1
+unspecified food offering,1
+"drawing ,  advertisement",1
+"sculpture ,  architecture",1
+"girdle ,  rattle",1
+"print ,  counterproof ,  title-page",1
+ossuary,1
+"token ,  coin",1
+"print ,  book-illustration ,  title-page",1
+grain-basket,1
+"cosmetic-box  ,  lid",1
+cattle breeding,1
+lunch-box,1
+"badge ,  coin",1
+water-pipe,1
+"coin ,  double-strike",1
+ear-ornament,1
+"bag ,  butter-churn",1
+whisk,1
+harness-fitting,1
+"spoon ,  food-stirrer",1
+"tripod pyxis ,  lid",1
+headrest cushion,1
+"concave pyxis ,  lid",1
+posset-cup,1
+"lid ,  box",1
+"handkerchief ,  neckerchief",1
+"coin ,  imitation",1
+"lock ,  key",1
+"tile ,  sieve",1
+"nikosthenic pyxis  ,  lid",1
+"fire-steel ,  flint",1
+"waster ,  bowl",1
+dancing dwarfs,1
+figure-head,1
+"dish ,  drinking-vessel ,  religious/ritual vessel",1
+garden,1
+"print ,  transparency",1
+"coin ,  proof",1
+hull,1
+"print ,  album ,  newspaper/periodical ,  book-illustration",1
+building equipment,1
+ostrich egg-shell,1
+"print ,  book of prints",1
+"print ,  playbill ,  advertisement",1
+unspecified agricultural equipment,1
+"plaque ,  inlay",1
+cinerary urn,1
+casket-fitting,1
+plummet,1
+human skeleton,1
+crew,1
+arm,1
+"ring ,  currency",1
+"coin ,  votive offering",1
+"votive offering ,  fitting",1
+"print ,  map",1
+"herm ,  portrait head",1
+ritual objects/ scul,1
+"pavement ,  mosaic",1
+replica,1
+toys or jewelry,1
+"christmas-card ,  print ,  photographic print ,  drawing",1
+"forgery  ,  coin",1
+"model ,  sheath",1
+"terminal ,  ornament",1
+"gem ,  finger-ring",1
+"print ,  book-illustration ,  album",1
+"print ,  portfolio",1
+"bowl ,  dish",1
+human cranium,1
+ram mummy,1
+"belt ,  waist-cloth",1
+unspecified organic remains,1
+theatre token,1
+frame,1
+shuttle,1
+printing-plate,1
+unspecified mammal mummy,1
+niche,1
+"vessel ,  unguent-bottle",1
+robe,1
+"bowl ,  lid",1
+"plaque ,  coffin-fitting",1
+throne,1
+solar boat,1
+stirrer,1
+burial chamber,1
+"pendant ,  box",1
+millstone,1
+"print ,  book-illustration ,  alphabet",1
+"vessel ,  bust",1
+"print ,  menu",1
+"amulet  ,  ankh",1
+ostrich egg,1
+niello print,1
+dog mummy,1
+burqa,1
+"vessel ,  jug",1
+"votive plaque ,  relief",1
+shovel,1
+door-sill,1
+"scarab ,  signet-ring",1
+sewing equipment,1
+shabti box panel,1
+thread,1
+dropper,1
+magic bowl,1
+"tomb-relief ,  door",1
+"boss ,  jewellery ,  bell",1
+corn osiris coffin,1
+"skyphos ,  kotyle",1
+perfume-bottle,1
+"seal ,  stamp",1
+writing-case,1
+"charm ,  seal-impression",1
+"mosque-lamp ,  hanging lamp",1
+ribbon,1
+"artefact ,  net-sinker",1
+"finger-ring ,  memento mori",1
+"papyrus ,  textile",1
+"votive offering ,  sculpture",1
+"box ,  lid",1
+"figure ,  container",1
+face-mask,1
+donkey-trappings,1
+"cosmetic-vessel  ,  dish",1
+balustrade,1
+"basin ,  toilet/cosmetic equipment",1
+scarf,1
+"coffee-set ,  coffee-cup ,  cup-holder ,  tray",1
+shelf,1
+"necklace ,  charm-case",1
+saddle-cloth,1
+"ewer ,  toilet/cosmetic equipment",1
+"basin ,  strainer",1
+"water-bottle ,  sample",1
+"stove ,  brazier",1
+pot-carrier,1
+postage-stamp,1
+water pot,1
+ceiling,1
+"lid ,  rattle",1
+"skyphos ,  stemless cup",1
+"model group ,  barge ,  figure",1
+"model ,  barge",1
+"pendant ,  bead ,  spacer-bead",1
+"bead ,  ring",1
+"disc ,  spindle-whorl",1
+"pendant ,  plaque ,  bead",1
+"inlay ,  bead",1
+"ear-ring ,  hair-ring ,  pendant ,  bead",1
+"pendant ,  spacer-bead ,  bead",1
+"pendant ,  amulet ,  bead",1
+"artefact ,  spacer-bead ,  bead",1
+"tool/implement ,  bead",1
+"jug ,  oinochoe",1
+"pendant ,  ear-ring ,  bead",1
+"amulet ,  ear-ring ,  bead",1
+netting-needle,1
+peg,1
+"jewellery ,  necklace",1
+kyathos,1
+cast,1
+radio,1
+animal/vegetal remains,1
+"eye-cup ,  stemless cup",1
+"foundation-deposit  ,  beaker",1
+"inlay ,  coffin",1
+"breast-ornament ,  mummy-wrapping ,  bead",1
+"knife ,  knife-sheath",1
+"artefact ,  human skeletal remains",1
+"amulet ,  pendant ,  bead",1
+"textile ,  rope",1
+"vessel ,  wine-jar ,  ostracon",1
+"vessel ,  tile",1
+"vessel ,  stopper",1
+"pendant ,  ear-ring ,  hair-ring",1
+"ring ,  bezel",1
+"cistern ,  toilet/cosmetic equipment",1
+"shawl ,  scarf",1
+gaming board,1
+waistcoat,1
+"model ,  plough",1
+"medal ,  specimen",1
+"ornament ,  architecture",1
+"bath-scoop ,  bowl",1
+"vessel-fitting ,  lid",1
+unspecified human remains,1
+"manuscript ,  painting ,  calligraphy",1
+presentation pack,1
+saddle-bag,1
+fighting-stick,1
+"banknote ,  specimen",1
+cheque,1
+"rope ,  vegetal remains",1
+"aryballos ,  model group ,  figure",1
+stereoscope photograph,1
+openwork,1
+osiris bed,1
+"oil-lamp ,  hanging lamp",1
+gunpowder-flask,1
+"scarab ,  mount",1
+"lamp ,  stand",1
+"medal ,  box",1
+"jar ,  culinary equipment",1
+measuring of volume,1
+plumb-line with support,1
+"charcoal-burner ,  heater",1
+double crown,1
+money-box,1
+"kursi ,  qur'an-rest",1
+"print ,  book ,  map ,  atlas",1
+"askos ,  figure ,  rattle",1
+"flask ,  forgery",1
+tool mould,1
+horse-collar,1
+bird-lure,1
+"sieve ,  winnowing-tray",1
+"jewellery-mould ,  whetstone",1
+"musical horn ,  trumpet",1
+"intaglio ,  bead ,  scaraboid",1
+"game-counter ,  draughts-piece",1
+"leglet ,  armlet",1
+"dice  ,  bead",1
+"bag ,  purse",1
+zither,1
+album,1
+"ring ,  tool/implement",1
+"purse ,  bag",1
+"camel-whip ,  knife-dagger",1
+"water-bottle ,  stopper",1
+pouch,1
+"case ,  bag",1
+"bell ,  gong",1
+"painting ,  photographic print",1
+"threshing-fork ,  winnowing-fork",1
+was-sceptre,1
+"architecture ,  acroterion",1
+hand-warmer,1
+pen-case,1
+milk scene,1
+"potter's tool/implement ,  pounder",1
+"manuscript ,  painting",1
+fez,1
+"animal equipment ,  ornament",1
+"drawing ,  print study ,  architectural drawing",1
+oil painting,1
+cushion-cover,1
+"decorated egg ,  animal remains",1
+spout,1
+tent-cloth,1
+"beer-vessel  ,  ostracon",1
+pavement,1
+"vessel ,  wine-jar  ,  ostracon",1
+razor-case,1
+"kohl-tube ,  textile",1
+"vessel ,  cup",1
+"dish ,  cosmetic-container",1
+"mummy-case ,  cartonnage ,  human mummy ,  amulet ,  pectoral ,  heart-scarab",1
+"flask ,  unguentarium",1
+"necklace ,  bead ,  pendant ,  amulet",1
+"plaque ,  casket ,  lid",1
+"book-label ,  plaque",1
+"scarab ,  inlay",1
+"textile ,  tapestry ,  garment",1
+"kylix ,  acrocup",1
+"cap ,  bead ,  forgery",1
+"spacer-bead ,  ornament",1
+"band-cup ,  lip-cup",1
+"human mummy ,  mummy-wrapping ,  amulet",1
+"fishing-line-weight  ,  weight",1
+"oinochoe ,  figure",1
+pike,1
+"weight  ,  artefact",1
+"neck-amphora  ,  trefoil-mouth oinochoe",1
+"artefact ,  net-weight",1
+pumice-stone,1
+marker,1
+"jar ,  seal-impression",1
+"antefix ,  relief ,  figure",1
+plaquette,1
+"block ,  boundary-marker",1
+"foundation-deposit ,  animal remains",1
+"vessel ,  flask",1
+"chalice ,  kantharos",1
+"amulet ,  pouch ,  purse",1
+"foundation-deposit ,  model ,  brick",1
+cord,1
+"bowl ,  skyphos",1
+rein,1
+"burnisher ,  weight  ,  game-piece",1
+"stela ,  gravestone",1
+"bed ,  furniture-fitting",1
+blinker,1
+"stela ,  grave-marker",1
+"staff ,  finial ,  votive offering ,  model",1
+"spear-head  ,  tool/implement",1
+"shrine  ,  fitting",1
+"wedge ,  chisel",1
+"mummy-case ,  animal mummy ,  mummy-wrapping",1
+eye-bead,1
+"figure ,  vessel ,  aryballos",1
+"human mummy ,  mummy-mask ,  cartonnage ,  bead-net ,  mummy-wrapping",1
+"spade ,  currency",1
+"coffin ,  human mummy ,  mummy-wrapping ,  bead-net",1
+"arrow-case ,  arrow",1
+"probe ,  scoop",1
+"ostracon ,  canopic jar",1
+"artefact ,  visual representation",1
+model-fitting,1
+"flask ,  ampulla",1
+"furniture-fitting ,  bed",1
+"rhyton ,  wine-funnel",1
+"amulet ,  waster  ,  figure",1
+flag,1
+"basin ,  model",1
+"human mummy ,  mummy-case ,  cartonnage",1
+"vessel ,  model",1
+"loin-cloth ,  bead",1
+loin-cloth,1
+"tomb-relief ,  trial-piece",1
+"artefact ,  box",1
+"intaglio ,  ring",1
+"spindle-whorl ,  spacer-bead",1
+"model building/structure ,  granary",1
+"shield ,  model",1
+"vessel ,  amphoriskos",1
+"flask ,  vessel",1
+link,1
+"model-fitting ,  bolt",1
+diptych,1
+"fibula  ,  pin",1
+"aegis ,  amulet ,  votive offering",1
+"amphora  ,  krater",1
+military diploma,1
+"naos ,  model",1
+"dish  ,  plate",1
+concave pyxis,1
+"lotus bowl  ,  cup",1
+"cartonnage ,  mummy-mask",1
+"base ,  pyxis",1
+kothon,1
+offering-tray,1
+spool,1
+"model ,  arms/armour",1
+"kohl-tube ,  kohl",1
+game-stick,1
+"trial-piece ,  ostracon",1
+frying-pan,1
+"finger-ring ,  sealstone ,  intaglio",1
+"mortar-spreader ,  foundation-deposit ,  model",1
+"model ,  boot",1
+"model ,  trowel ,  foundation-deposit",1
+"model ,  brick ,  foundation-deposit",1
+scimitar,1
+"salt-cellar ,  bowl",1
+"animal mummy ,  mummy-wrapping ,  mummy-mask",1
+"fly-whisk ,  brush",1
+key-finger-ring,1
+"stela ,  bust",1
+"mummy-wrapping ,  textile",1
+"oil-jar ,  ostracon",1
+drinking-vessel,1
+"trial-piece ,  relief",1
+"model ,  amphora",1
+"net ,  ring ,  garment",1
+wig-box,1
+"charm ,  amulet ,  artefact",1
+"bead  ,  furniture-fitting",1
+"nail ,  arrow-head",1
+"artefact ,  key",1
+"statue  ,  disc",1
+"fitting ,  fastener",1
+tent-peg,1
+"fitting  ,  swivel ,  ring",1
+breast-chain,1
+horse bridle-bit,1
+mattock,1
+"relief ,  bowl",1
+"bident ,  spear",1
+"lagynos ,  jug",1
+trident,1
+"plate ,  armour",1
+"chisel ,  wedge",1
+"necklace ,  heart-scarab",1
+"hadra hydria ,  human cremation",1
+"bead ,  seal",1
+"bangle ,  amulet",1
+"spool ,  finial",1
+"theatre mask ,  model",1
+"button ,  game-piece",1
+"shabti-box ,  textile ,  vegetal remains",1
+"coffin ,  human mummy ,  mummy-wrapping ,  mummy-mask ,  cartonnage",1
+"model ,  dagger",1
+"amulet-case ,  pendant",1
+"necklace ,  pendant ,  chain",1
+"fitting ,  model ,  theatre mask",1
+"amulet ,  finger-ring",1
+"toilet-set ,  toilet-chest ,  vessel ,  pumice-stone ,  comb ,  cosmetic-dish ,  sandal ,  cosmetic-pot ,  cosmetic-applicator ,  pin",1
+stirrup,1
+table,1
+"amulet  ,  bangle",1
+pediment,1
+"model  ,  vessel",1
+"sacrificial knife ,  foundation-deposit ,  model",1
+"diptych ,  religious/ritual equipment",1
+"panel ,  stela",1
+door-socket,1
+"sculpture ,  scarab",1
+"apron ,  girdle",1
+monument,1
+compass,1
+"book-cover ,  casket",1
+"artefact ,  drill-core",1
+gunpowder-horn,1
+"king-list ,  temple-relief",1
+cosmetic-bottle,1
+"stela ,  offering-table",1
+"cross ,  lamp",1
+decorated egg,1
+"figure ,  coffin",1
+"blade ,  tool/implement ,  animal equipment",1
+"offering-table ,  offering-stand",1
+"ring ,  armlet",1
+"clog ,  sandal",1
+"amulet  ,  waster",1
+"human mummy ,  mummy-portrait ,  mummy-wrapping ,  cartonnage",1
+"offset ,  album",1
+"transport amphora ,  jar",1
+"amulet  ,  medallion",1
+"lintel ,  stela",1
+"blade ,  knife",1
+"vessel ,  bottle",1
+"lamp ,  lamp-stand",1
+"toilet/cosmetic equipment ,  kohl-stick",1
+"head-rest ,  amulet",1
+"scribal palette ,  paint-brush ,  paint-mixer ,  paint sample",1
+lyre,1
+"peg  ,  drill",1
+"goblet ,  cup",1
+medallion-mould,1
+"triptych ,  religious/ritual equipment",1
+"textile ,  hood",1
+"stela ,  lintel",1
+"statue ,  votive figure",1
+divination-bowl,1
+"figure ,  rattle",1
+"figure ,  toy ,  doll",1
+"jar  ,  vessel",1
+token-mould,1
+sheet,1
+"lekythos ,  aryballos",1
+"dinos  ,  krater",1
+"vessel ,  dinos",1
+"pigment sample ,  tool/implement",1
+"amulet  ,  pendant",1
+"stand ,  lebes gamikos",1
+"figure ,  aryballos",1
+"bead ,  amulet ,  necklace ,  eye-bead",1
+"textile ,  mattress-cover",1
+"chain ,  necklace",1
+"seal ,  die ,  seal-impression",1
+"fountain-jet ,  sculpture",1
+"artefact ,  vessel",1
+sinker,1
+"purse ,  wallet",1
+"dish ,  vessel",1
+bird-trap,1
+"temple-relief ,  gateway",1
+"torah shield ,  calendar",1
+"papyrus ,  amulet",1
+"temple-relief ,  lintel",1
+oboe,1
+"toy  ,  figure",1
+"figure ,  amulet  ,  pendant",1
+"spear ,  lance",1
+"papyrus ,  reproduction",1
+"blade ,  currency",1
+"stela ,  votive offering",1
+"head-rest ,  seat",1
+"pectoral ,  inlay",1
+"jug ,  flagon",1
+"textile ,  furnishing ,  garment",1
+"model ,  couch",1
+"bouquet ,  funerary equipment",1
+"lamp ,  replica ,  souvenir",1
+"mould ,  stela",1
+"portrait bust ,  cameo",1
+"cart ,  model",1
+"amulet ,  bead ,  scarab",1
+"necklace  ,  bead ,  amulet ,  pendant",1
+"plaque ,  cameo ,  furniture-fitting",1
+"spatha ,  sword-sheath",1
+"artefact ,  fitting",1
+"cosmetic-box ,  lid",1
+"tile ,  frieze ,  inlay",1
+"bust ,  hanging lamp",1
+water-bottle-stand,1
+"sword ,  knife",1
+"statue ,  bust",1
+"model ,  box",1
+"krater  ,  dinos",1
+"jewellery-fitting ,  disc",1
+"disc ,  game-piece",1
+"waster ,  dish",1
+"jewellery-fitting ,  mount",1
+"envelope ,  pigment sample",1
+"jewellery-fitting ,  bead",1
+"bead-net ,  bead ,  amulet ,  tassel",1
+"human remains ,  textile",1
+"cameo ,  bottle ,  vessel",1
+"religious/ritual equipment ,  flask",1
+"mask ,  animal mummy",1
+"vessel  ,  cup",1
+"unguentarium ,  flask",1
+kohl-box,1
+"hadra hydria ,  cinerary urn",1
+"boat-fitting  ,  religious/ritual equipment",1
+"artefact ,  mirror",1
+tool-rest,1
+"figure  ,  oil-lamp",1
+cooking-stand,1
+"bottle ,  lekythos",1
+"bead ,  necklace ,  eye-bead",1
+"sarcophagus  ,  fitting",1
+"heart-amulet ,  ear-ring",1
+"figure-fitting ,  collar ,  model",1
+"bead ,  necklace ,  amulet",1
+architectural drawing,1
+"textile ,  tassel",1
+"plaque ,  spacer-bead",1
+rake,1
+cotton-gin,1
+visor,1
+"model ,  cast",1
+spade,1
+"gateway ,  lintel ,  door-jamb",1
+"temple-relief ,  bowl",1
+"vessel ,  vessel-cover",1
+"religious/ritual equipment ,  model ,  adze",1
+"cup  ,  cameo",1
+"cameo ,  cup",1
+cushion,1
+balsamarium,1
+"vessel ,  kantharos",1
+"human mummy ,  coffin ,  mummy-wrapping",1
+"lamp ,  figure",1
+"pithos ,  architecture",1
+"lyre ,  harp",1
+"figure ,  amulet ,  textile",1
+"kotyle ,  cup",1
+"tool/implement ,  hoe",1
+"textile ,  jellabia",1
+"hoe ,  foundation-deposit ,  model",1
+disc pendant,1
 trough,1
+"artefact ,  stamp  ,  gaming-piece",1
+"model ,  food product",1
+"vessel ,  unguent-jar ,  figure",1
+"musical pipe ,  clarinet",1
+helmet,1
+"pendant ,  chain ,  amulet",1
+"figure-fitting ,  forgery",1
+"coffin-fitting ,  forgery",1
+"model ,  wagon",1
+"lamp ,  handle",1
+"figure ,  foundation-deposit",1
+"model ,  head-rest",1
+"vessel ,  bowl",1
+"ostracon ,  architecture",1
+"textile ,  votive offering",1
+"case  ,  bag",1
+"shield ,  brace",1
+"model ,  vessel",1
+"mummy-wrapping  ,  bead",1
+"mummy-case ,  cartonnage ,  animal mummy",1
+"altar ,  model ,  offering-vessel",1
+"jar ,  string",1
+"scroll ,  curse",1
+"coffin ,  model ,  figure ,  vegetal remains",1
+pithos,1
+"religious/ritual equipment ,  figure",1
+food-box,1
+"jar ,  strainer",1
+"animal remains ,  pendant",1
+"magical gem ,  stamp-seal",1
+"model ,  spear-head",1
+"amulet ,  name-bead",1
+"model ,  coffin ,  shabti",1
+"figure ,  cartonnage",1
+"stela ,  millstone",1
+"pendant ,  inlay",1
+"box ,  textile",1
+"magical brick ,  vegetal remains",1
+"temple-relief ,  forgery",1
+"shabti-mould ,  forgery",1
+"relief ,  votive offering",1
+"vase ,  rope",1
+"textile ,  bag  ,  sample",1
+"pen-case ,  ink-well ,  ink sample",1
+"oil-lamp ,  ink-well",1
+"inlay ,  food product ,  necklace",1
+"hoe ,  rope",1
+"model ,  coffin ,  figure",1
+"votive offering ,  model",1
+door-plate,1
+"figure ,  fountain",1
+"amulet  ,  plaque",1
+"spoon ,  pendant",1
+"magical brick ,  amulet",1
+ear-ring-mould,1
+"vessel ,  offering-tray",1
+"curse ,  tablet",1
+"finger-ring  ,  scarab",1
+slit-drum,1
+"bowl  ,  model",1
+"plaque ,  scarab",1
+"toy ,  game-ball ,  rattle",1
+"handle ,  vase",1
+"altar  ,  base",1
+"shrine ,  stela",1
+"coffin ,  animal remains",1
+"coffin ,  textile ,  mummy-wrapping",1
+"chain ,  coin",1
+"scarab ,  necklace",1
+"statue ,  cornice",1
+cosmetic-bowl,1
+"tablet ,  curse",1
+"kohl-jar ,  vessel-cover",1
+"offering-stand ,  food product",1
+"dish ,  food product",1
+"censer ,  chain",1
+"votive offering  ,  figure",1
+"foundation-deposit ,  model ,  axe",1
+"model ,  spear-head ,  foundation-deposit",1
+"model ,  plough ,  foundation-deposit",1
+"model ,  dish ,  foundation-deposit",1
+"foundation-deposit ,  box",1
+"bead ,  ear-stud",1
+"paint-stone ,  paint-grinder",1
+"figure ,  mummy-cloth",1
+"net-weight ,  net-sinker ,  loom-weight",1
+"cast ,  death-mask",1
+"religious/ritual equipment ,  model ,  vessel ,  tool/implement",1
+ingot,1
+"scribal palette ,  pen",1
+"model ,  scribal palette",1
+"vessel-fitting ,  neck-amphora",1
+"foundation-deposit ,  model",1
+"model ,  bed",1
+"bowl ,  vegetal remains",1
+"krater  ,  ostracon",1
+"writing-tablet ,  votive offering",1
+"vase ,  figure",1
+"lekythos ,  jug",1
+"relief ,  trial-piece ,  forgery",1
+"flask ,  bottle",1
+"veil ,  coin",1
 remittance note,1
 docket,1
-wall-hanging,1
-oil-vessel,1
-paint-stone,1
-ingot,1
-parade-armour,1
-roundel,1
-offering,1
-sword-sheath,1
-trowel,1
-incense-tool/implement,1
-box-sealing,1
-offering-stand,1
-food-box,1
-lanx,1
 rapier,1
+"axe ,  forgery",1
+"jewellery-mould ,  vessel-mould",1
+"game-piece ,  loom-weight",1
+quiver,1
+wall-hanging,1
+"oil-vessel ,  ostracon",1
+"unguentarium ,  stopper",1
+"saw ,  knife",1
+drinking-tube,1
+"drinking-tube ,  wine-strainer",1
+incense-tool/implement,1
+"terminal ,  ceremonial staff",1
+"fruit-basket ,  vegetal remains",1
+"bead ,  seal ,  amulet",1
+"stopper ,  plug ,  seal-impression ,  amphora",1
+"amphora ,  stopper ,  seal-impression ,  plug",1
+"amphora ,  stopper ,  plug ,  seal-impression",1
+"stopper ,  plug ,  amphora ,  seal-impression",1
+"box-sealing ,  seal-impression",1
+"basket ,  vegetal remains",1
+"ear-ring ,  bead ,  spacer-bead",1
+"textile ,  bag ,  vegetal remains",1
+"amulet ,  seal",1
+"cinerary urn ,  human cremation",1
+unguent-bottle,1
+"human mummy ,  mummy-wrapping ,  coffin",1
+trowel,1
+"shovel ,  model",1
+"amulet ,  menat ,  aegis",1
+sieve,1
+"cage ,  basket",1
+"incense-burner ,  rope",1
+"case ,  sheath",1
+"model ,  boat ,  string",1
+"parure ,  necklace ,  ear-ring ,  tiara ,  jewellery-case",1
+"parade-armour ,  helmet ,  cuirass",1
+sword-sheath,1
+roundel,1
+"finger-ring ,  cylinder seal",1
+"pendant ,  plaque",1
+"jewellery ,  ornament",1
+offering,1
+"jar ,  jar-cover",1
+"shabti ,  brick",1
+"offering-cup  ,  foundation-deposit",1
+"trial-piece ,  sculpture",1
+"nail ,  spike",1
+"model ,  yoke  ,  bag ,  figure-fitting",1
+"toy ,  mill",1
+"rattle ,  figure ,  askos",1
+"scoop ,  probe",1
+"necklace  ,  pendant ,  bead",1
+"architecture  ,  artefact ,  grinding-stone",1
+"scribal palette ,  water-bowl",1
+"bead ,  scarab",1
+"figure ,  mummy-wrapping",1
+"juglet ,  flask",1
+"bracelet ,  plaque",1
+"bead ,  clasp",1
+"bracelet ,  bead ,  spacer-bead",1
+"chisel ,  drill",1
+"necklace  ,  bead ,  pendant ,  clasp ,  amulet",1
+"model ,  hoe ,  figure-fitting",1
+"rattle ,  figure",1
+"necklace ,  amulet-case",1
+"human remains ,  basket  ,  textile",1
+"shoe ,  nail",1
+"bust ,  flask",1
+"stopper ,  game-piece",1
+"necklace ,  pendant ,  coin",1
+libation-vase,1
+"figure ,  cast",1
+"scarab ,  bead",1
+"jewellery-fitting  ,  amulet ,  diadem",1
+"dagger ,  funerary equipment",1
+"wand ,  amuletic wand",1
+"throwing-stick ,  amuletic wand",1
+"oil-lamp  ,  figure",1
+"base ,  figure",1
+"ostracon ,  letter",1
+"cosmetic-box ,  figure",1
+"model ,  spoon",1
+"coffin ,  mummy-case ,  cartonnage ,  human mummy ,  pectoral",1
+lanx,1
+"cup-holder ,  cup-stand ,  coffee equipment",1
+"handle ,  lebes",1
+"bowl ,  kiln-furniture",1
+"antefix ,  ornament ,  tile",1
+"artefact ,  game-piece",1
+"vessel ,  canopic jar ,  model",1
+"key ,  finger-ring",1
+wine-strainer,1
+"situla ,  situla-stand ,  votive offering ,  model",1
+"offering-table ,  amulet",1
+"wheel ,  toy",1
+"stamp-seal ,  seal",1
+"die ,  dice",1
+"inlay ,  amulet  ,  jewellery",1
+"naukratic figure ,  amulet",1
+"sculpture  ,  trial-piece",1
+"jar ,  jug",1
+libation-vessel,1
+"figure ,  statue",1
+saddle,1
+"model ,  askos",1
+"amulet ,  bead ,  pendant",1
+"aegis ,  votive offering",1
+"coffin ,  mummy-mask ,  mummy-cover ,  cartonnage ,  mummy-wrapping ,  human mummy",1
+fibula,1
+"heart-scarab ,  necklace",1
+"fitting ,  ceremonial staff",1
+"human mummy ,  mummy-wrapping ,  mummy-case ,  cartonnage",1
+"grave-marker ,  seal-impression",1
+"trefoil-mouth oinochoe ,  measure",1
+"lock ,  plate",1
+"writing-tablet ,  stylus ,  signet-ring",1
+scrubbing-brush,1
+"mummy footcase ,  cartonnage",1
+"amulet ,  heart-scarab",1
+"ampulla ,  model",1
+"cosmetic-pot ,  model",1
+"amulet ,  stela",1
+"jewellery ,  diadem",1
+"naos ,  door",1
+"disc ,  jewellery-fitting ,  bead",1
+standard,1
+"animal mummy ,  mummy-case ,  mummy-wrapping",1
+"model ,  knife ,  tongs ,  axe ,  chisel ,  tool/implement ,  foundation-deposit",1
+"tile ,  wall-tile",1
+"religious/ritual equipment ,  tool/implement",1
+"print ,  prospectus",1
+"religious/ritual vessel ,  water-vessel",1
+"kohl-pot ,  stopper",1
+"scarab ,  finger-ring",1
+wig-pin,1
+"textile ,  belt",1
+"paint-brush ,  pigment sample",1
+"model ,  naos",1
+"amulet ,  scaraboid ,  figure",1
+"vessel ,  beaker",1
+clamp,1
+"peg  ,  foundation-deposit",1
+breast-ornament,1
+"pendant  ,  bead",1
+"model ,  foundation-deposit ,  sacrificial knife",1
+fitting-mould,1
+"model ,  foundation-deposit ,  trowel",1
+double jar,1
+"sistrum ,  core",1
+"model ,  plaque ,  foundation-deposit",1
+"toy ,  string",1
+dish-cover,1
+"model ,  vase-stand",1
+"jar ,  textile",1
+"figure ,  amulet ,  shrine",1
+"canopic jar ,  sample",1
+"canopic jar ,  mummy-packing ,  human remains",1
+"ink-pot ,  pen-case ,  chain",1
+"jewellery ,  amulet",1
+plumb-bob,1
+"shuttle ,  loom",1
+"model ,  writing-box",1
+toilet/cosmetic equipment,1
+"cast ,  palette",1
+walking-stick,1
+"zither ,  plectrum",1
+"artefact ,  brick",1
+"stela ,  sculpture",1
+"dish ,  food-basket",1
+"button ,  disc",1
+"bowl ,  textile",1
+"bottle ,  figure",1
+"dish  ,  model",1
+cosmetic-palette-cover,1
+"model building/structure ,  house",1
+"capital ,  votive offering",1
+"sword ,  forgery",1
+pleating-tool/implement,1
+"comb ,  oar",1
+"tray ,  model",1
+"vessel-stamp ,  seal",1
+"watch ,  watch-case",1
+"watch ,  watch-case ,  watch-paper ,  print",1
+"net-weight ,  loom-weight",1
+"pot ,  sherbet-cup",1
+"coffin ,  string",1
+"vessel ,  alabastron",1
+"figure ,  rhyton",1
+"cippus ,  cast",1
+"dish ,  textile ,  food product",1
+"coffin ,  animal mummy",1
+watch,1
+"cowroid ,  scaraboid",1
+"rasp ,  strigil",1
+prochoos,1
